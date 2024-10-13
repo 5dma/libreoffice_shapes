@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" office:version="1.0">
+<office:scripts/>
+<office:automatic-styles>
+<style:style style:name="dp1" style:family="drawing-page"/>
+<style:style style:name="P1" style:family="paragraph">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
+</style:style>
+<style:style style:name="notation" style:family="paragraph">
+<style:paragraph-properties fo:text-align="center"/>
+<style:text-properties style:text-underline-style="none" fo:font-size="10pt" style:font-family-generic="swiss" fo:text-align="center" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+</style:style>
+<style:style style:name="P2" style:family="paragraph">
+<style:paragraph-properties fo:text-align="center"/>
+<style:text-properties style:text-underline-style="none" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+</style:style>
+<style:style style:name="P3" style:family="paragraph">
+<style:paragraph-properties fo:text-align="center"/>
+<style:text-properties style:text-underline-style="none" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+</style:style>
+<style:style style:name="DividingLine" style:family="graphic" style:parent-style-name="SolidLine">
+<style:graphic-properties style:protect="position size"/>
+</style:style>
+<style:style style:name="T1" style:family="text">
+<style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+</style:style>
+<text:list-style style:name="L1">
+<text:list-level-style-bullet text:level="1" text:bullet-char="?">
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="?">
+<style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="?">
+<style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="?">
+<style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="?">
+<style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="10" text:bullet-char="?">
+<style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+</text:list-style>
+</office:automatic-styles>
+<office:body>
+<office:drawing>
+<draw:page draw:name="Orchestral Layout" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+
+
+<draw:custom-shape draw:name="Instrument" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="1.0cm" svg:height="1.0cm" svg:x="1.0cm" svg:y="1.0cm">
+<text:p text:style-name="P1">Instrument</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:text-areas="0 1151 1000 1151 " draw:type="NonPrimitive" draw:enhanced-path="
+M 0 0 L 1000 0 1000 1000 0 1000 Z F N
+"/>
+<draw:glue-point draw:id="7" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Stand" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="1.0cm" svg:height="1.0cm" svg:x="3.0cm" svg:y="1.0cm">
+<text:p text:style-name="P1">Stand</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:text-areas="0 1151 1000 1151 " draw:type="NonPrimitive" draw:enhanced-path="
+M 0 0 L 1000 1000 M 0 1000 L 1000 0 F N
+"/>
+<draw:glue-point draw:id="7" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Timpani" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="1.0cm" svg:height="1.0cm" svg:x="5.0cm" svg:y="1.0cm">
+<text:p text:style-name="P1">Timpani</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:text-areas="0 1151 1000 1151 " draw:type="NonPrimitive" draw:enhanced-path="
+T  500 500 1000 1000 0 360 Z 
+T  500 500 900 900 0 360 Z F N
+"/>
+<draw:glue-point draw:id="7" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Piano" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="1.48cm" svg:x="7.0cm" svg:y="1.0cm">
+<text:p text:style-name="P1">Piano</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 2470" draw:text-areas="0 2820 5000 2820" draw:type="NonPrimitive" draw:enhanced-path="
+M 0 0
+L 0 2470
+L 956 2470
+
+C 2786 2470 2988 1212 3911 1212
+
+
+
+X 5000 0 Z F N
+
+"/>
+<draw:glue-point draw:id="7" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Xylophone" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="1.48cm" svg:x="11.0cm" svg:y="1.0cm">
+<text:p text:style-name="P1">Xylophone</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 457" draw:text-areas="0 601 1000 601" draw:type="NonPrimitive" draw:enhanced-path="
+M 0 0
+L 1000 0
+L 1000 457
+L 0 176 Z F N
+
+"/>
+<draw:glue-point draw:id="7" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Harp" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.3cm" svg:x="16.0cm" svg:y="1.0cm">
+<text:p text:style-name="P1">Harp</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 100" draw:text-areas="0 201 1000 201" draw:type="NonPrimitive" draw:enhanced-path="
+M 0 0
+L 1000 0
+L 1000 30
+L 0 30 Z
+M 0 100
+L 1000 100
+L 1000 70
+L 0 70 Z N
+
+"/>
+<draw:glue-point draw:id="7" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+</draw:page>
+
+</office:drawing>
+</office:body>
+</office:document-content>

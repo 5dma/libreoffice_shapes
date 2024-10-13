@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" office:version="1.0">
+<office:scripts/>
+<office:automatic-styles>
+<style:style style:name="dp1" style:family="drawing-page"/>
+<style:style style:name="P1" style:family="paragraph">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
+</style:style>
+<style:style style:name="notation" style:family="paragraph">
+<style:paragraph-properties fo:text-align="center"/>
+<style:text-properties style:text-underline-style="none" fo:font-size="10pt" style:font-family-generic="swiss" fo:text-align="center" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+</style:style>
+<style:style style:name="P2" style:family="paragraph">
+<style:paragraph-properties fo:text-align="center"/>
+<style:text-properties style:text-underline-style="none" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+</style:style>
+<style:style style:name="P3" style:family="paragraph">
+<style:paragraph-properties fo:text-align="center"/>
+<style:text-properties style:text-underline-style="none" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+</style:style>
+<style:style style:name="DividingLine" style:family="graphic" style:parent-style-name="SolidLine">
+<style:graphic-properties style:protect="position size"/>
+</style:style>
+<style:style style:name="T1" style:family="text">
+<style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+</style:style>
+<text:list-style style:name="L1">
+<text:list-level-style-bullet text:level="1" text:bullet-char="?">
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="?">
+<style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="?">
+<style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="?">
+<style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="?">
+<style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="10" text:bullet-char="?">
+<style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+</text:list-style>
+</office:automatic-styles>
+<office:body>
+<office:drawing>
+<draw:page draw:name="Passive Components" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+
+
+<draw:custom-shape draw:name="Resistor" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.6839cm" svg:x="1.0cm" svg:y="1.0cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1140" draw:text-areas="0 1340 5000 2040" draw:type="NonPrimitive" draw:enhanced-path="
+M 0 570
+L 894 570
+L 1160 0
+L 1691 1140
+L 2223 0
+L 2754 1140
+L 3286 0
+L 3817 1140
+L 4083 570
+L 5000 570 F N
+
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Variable Resistor" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="1.172cm" svg:x="1.0cm" svg:y="2.5cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1954" draw:text-areas="0 2154 5000 3054" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 570
+L 894 570
+L 1160 0
+L 1691 1140
+L 2223 0
+L 2754 1140
+L 3286 0
+L 3817 1140
+L 4083 570
+L 5000 570 F N
+
+M 2754 1140
+L 2587 1638
+L 2706 1638
+L 2706 1954
+L 2802 1954
+L 2802 1638
+L 2922 1638 Z N
+
+"/>
+<draw:glue-point draw:id="7" svg:x="-5cm" svg:y="-2.083cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="8" svg:x="5cm" svg:y="-2.083cm" draw:escape-direction="right"/>
+
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Capacitor Straight" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.6839cm" svg:x="6.0cm" svg:y="1cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1140" draw:text-areas="0 1340 5000 2040" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 570
+L 2299 570
+M 2299 0
+L 2299 1140
+M 2701 0
+L 2701 1140
+M 2701 570
+L 5000 570 N F
+
+
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Capacitor Curved" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.6839cm" svg:x="6.0cm" svg:y="2.5cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1140" draw:text-areas="0 1340 5000 2040" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 570
+L 2299 570
+M 2299 0
+L 2299 1140
+U 3313 559 611 611 111 248
+
+
+M 2701 570
+L 5000 570 N F
+
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Earth Ground" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="2.0cm" svg:height="2.61cm" svg:x="1.0cm" svg:y="5.2cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 6515" draw:text-areas="0 6715 5000 7415" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 2500 0
+L 2500 3257
+M 0 3257
+L 5000 3257
+M 1000 4886
+L 4000 4886
+M 1875 6515
+L 3125 6515 N F
+
+
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Chassis Ground" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="2.2cm" svg:height="1.93cm" svg:x="1.0cm" svg:y="9.8cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 4393" draw:text-areas="0 4593 5000 5293" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 3007 0
+L 3007 3093
+M 1386 3093
+L 5000 3093
+M 0 4393
+L 1386 3093
+M 1621 4393
+L 3007 3093
+M 3614 4393
+L 5000 3093 F N
+
+"/>
+<draw:glue-point draw:id="7" svg:x="1.014cm" svg:y="-5cm" draw:escape-direction="top"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Capacitor Straight, Polarized" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.6839cm" svg:x="6.0cm" svg:y="5.2cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1140" draw:text-areas="0 1340 5000 2040" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 570
+L 2299 570
+M 2299 0
+L 2299 1140
+M 2701 0
+L 2701 1140
+M 2701 570
+L 5000 570 N F
+
+
+
+M 1731 182
+L 2091 182
+M 1916 0
+L 1916 361 N F
+
+
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Capacitor Curved, Polarized" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.6839cm" svg:x="6.0cm" svg:y="7.9cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1140" draw:text-areas="0 1340 5000 2040" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 570
+L 2299 570
+M 2299 0
+L 2299 1140
+U 3313 559 611 611 111 248
+
+
+M 2701 570
+L 5000 570 N F
+
+M 1731 182
+L 2091 182
+M 1916 0
+L 1916 361 N F
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Battery" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="4.13cm" svg:height="2.65cm" svg:x="1.0cm" svg:y="13.7cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 3208" draw:text-areas="0 3408 5000 4108" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 1604
+L 1646 1604
+M 1646 0
+L 1646 3208
+M 2203 1077
+L 2203 2131
+M 2797 0
+L 2797 3208
+M 3354 1077
+L 3354 2131
+M 3354 1604
+L 5000 1604
+M 993 0
+L 993 484
+M 751 242
+L 1235 242
+M 3354 242
+L 3838 242 F N
+
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Crystal" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="2.08cm" svg:x="1.0cm" svg:y="18.35cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 3462" draw:text-areas="0 3662 5000 4332" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 1731
+L 1702 1731
+M 1702 123
+L 1702 3339
+M 1923 0
+L 3077 0
+L 3077 3462
+L 1923 3462 Z
+M 3298 123
+L 3298 3339
+M 3298 1731
+L 5000 1731 F N
+
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Fuse" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.934cm" svg:x="1.0cm" svg:y="22.43cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1561" draw:text-areas="0 1761 5000 2461" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 781
+L 939 781
+
+U 1719 781 1562 1562 180 0 F N
+
+
+
+U 3281 781 1562 1562 0 180 F N
+
+
+M 4061 781
+L 5000 781 F N
+
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Inductor" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.301cm" svg:x="6.0cm" svg:y="10.6cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 502" draw:text-areas="0 702 5000 1402" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 502
+L 1001 502
+
+U 1376 502 750 1004 0 180 F N
+
+
+
+U 2125 502 750 1004 0 180 F N
+
+
+
+U 2875 502 750 1004 0 180 F N
+
+
+
+U 3624 502 750 1004 0 180 F N
+
+
+M 3999 502
+L 5000 502 F N
+
+
+
+"/>
+<draw:glue-point draw:id="7" svg:x="5cm" svg:y="4.992cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="8" svg:x="-5cm" svg:y="4.992cm" draw:escape-direction="left"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Inductor, Iron Core" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.6cm" svg:x="6.0cm" svg:y="12.9cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1000" draw:text-areas="0 1200 5000 1900" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 1000
+L 1000 1000
+
+U 1375 1000 750 1000 0 180 F N
+
+
+
+U 2125 1000 750 1000 0 180 F N
+
+
+
+U 2875 1000 750 1000 0 180 F N
+
+
+
+U 3625 1000 750 1000 0 180 F N
+
+
+M 4000 1000
+L 5000 1000 F N
+
+M 1000 250
+L 4000 250
+M 1000 0
+L 4000 0 F N
+
+"/>
+<draw:glue-point draw:id="7" svg:x="5cm" svg:y="5cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="8" svg:x="-5cm" svg:y="5cm" draw:escape-direction="left"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Inductor, Air" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.632cm" svg:x="6.0cm" svg:y="15.5cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1053" draw:text-areas="0 1253 5000 1953" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 526
+L 674 526
+
+U 1231 526 1114 1114 319 180 F N
+
+
+
+U 2077 526 1114 1114 319 221 F N
+
+
+
+U 2923 526 1114 1114 319 221 F N
+
+
+
+U 3769 526 1114 1114 0 221 F N
+
+
+M 4326 526
+L 5000 526 F N
+
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Transformer" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="2.38cm" svg:x="6.0cm" svg:y="18.1cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 3966" draw:text-areas="0 4166 5000 4866" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 0
+L 0 625
+
+U 625 625 1250 1250 180 0 F N
+
+
+
+U 1875 625 1250 1250 180 0 F N
+
+
+
+U 3125 625 1250 1250 180 0 F N
+
+
+
+U 4375 625 1250 1250 180 0 F N
+
+
+M 5000 625
+L 5000 0 F N
+
+M 0 3966
+L 0 3341
+
+U 625 3341 1250 1250 0 180 F N
+
+
+
+U 1875 3341 1250 1250 0 180 F N
+
+
+
+U 3125 3341 1250 1250 0 180 F N
+
+
+
+U 4375 3341 1250 1250 0 180 F N
+
+
+M 5000 3341
+L 5000 3966 F N
+"/>
+<draw:glue-point draw:id="7" svg:x="-5cm" svg:y="-5cm" draw:escape-direction="auto"/>
+<draw:glue-point draw:id="8" svg:x="5cm" svg:y="-5cm" draw:escape-direction="auto"/>
+<draw:glue-point draw:id="" svg:x="-5cm" svg:y="5.001cm" draw:escape-direction="auto"/>
+<draw:glue-point draw:id="" svg:x="5cm" svg:y="5.001cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Pushbutton NO" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.7543cm" svg:x="11.0cm" svg:y="1cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1257" draw:text-areas="0 1457 5000 2157" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 2283 0
+L 2717 0
+M 2500 0
+L 2500 535
+M 1676 535
+L 3324 535
+M 0 1113
+L 1532 1113
+M 3468 1113
+L 5000 1113 F N
+
+U 1676 1113 290 290 0 360 N
+
+
+
+U 3324 1113 290 290 0 360 N
+
+"/>
+<draw:glue-point draw:id="7" svg:x="-5cm" svg:y="3.853cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="8" svg:x="5cm" svg:y="3.853cm" draw:escape-direction="right"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Pushbutton NC" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.3377cm" svg:x="11.0cm" svg:y="3.7cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 563" draw:text-areas="0 763 5000 1463" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 2235 0
+L 2765 0
+M 2500 0
+L 2500 563
+M 1921 563
+L 3079 563
+M 0 397
+L 1755 397
+M 3245 397
+L 5000 397 F N
+
+U 1921 397 332 332 0 360 N
+
+
+
+U 3079 397 332 332 0 360 N
+"/>
+<draw:glue-point draw:id="7" svg:x="-5cm" svg:y="2.053cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="8" svg:x="5cm" svg:y="2.053cm" draw:escape-direction="right"/>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="Pushbutton Toggle" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.87cm" svg:x="11.0cm" svg:y="6.04cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1450" draw:text-areas="0 1650 5000 2350" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 2250 0
+L 2750 0
+M 2500 0
+L 2500 583
+M 1933 583
+L 3067 583
+M 0 417
+L 1767 417
+M 3233 417
+L 5000 417 F N
+
+U 1933 417 334 334 0 360 N
+
+
+
+U 3067 417 334 334 0 360 N
+
+
+
+U 1933 1283 334 334 0 360 N
+
+
+
+U 3067 1283 334 334 0 360 N
+
+"/>
+<draw:glue-point draw:id="7" svg:x="-5cm" svg:y="-2.124cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="8" svg:x="5cm" svg:y="-2.124cm" draw:escape-direction="right"/>
+</draw:custom-shape>
+</draw:page>
+<draw:page draw:name="Active Components" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+<draw:custom-shape draw:name="Transistor, PNP" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="3.0cm" svg:x="1.0cm" svg:y="1.0cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5000" draw:text-areas="0 5200 5000 5900" draw:type="NonPrimitive" draw:enhanced-path="
+U 2500 2500 5000 5000 0 360 Z F N
+M 0 2500
+L 1290 2500
+M 1290 1060
+L 1290 3940
+M 1290 3226
+L 3260 4187
+L 3260 4882
+M 1290 1774
+L 3260 813
+L 3260 118 F N
+
+M 1930 3538
+L 2619 3489
+L 2316 4111 Z N
+"/>
+<draw:glue-point draw:id="7" svg:x="-5cm" svg:y="0cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="8" svg:x="1.52cm" svg:y="-4.764cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="9" svg:x="1.52cm" svg:y="4.764cm" draw:escape-direction="down"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Transistor, NPN" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="3.0cm" svg:x="1.0cm" svg:y="6.0cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5000" draw:text-areas="0 5200 5000 5900" draw:type="NonPrimitive" draw:enhanced-path="
+U 2500 2500 5000 5000 0 360 Z F N
+
+
+M 0 2500
+L 1290 2500
+M 1290 1060
+L 1290 3940
+M 1290 3226
+L 3260 4187
+L 3260 4882
+M 1290 1774
+L 3260 813
+L 3260 118 F N
+
+M 2621 3875
+L 2234 3302
+L 1931 3827 Z N
+"/>
+<draw:glue-point draw:id="7" svg:x="-5cm" svg:y="0cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="8" svg:x="1.52cm" svg:y="-4.764cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="9" svg:x="1.52cm" svg:y="4.764cm" draw:escape-direction="down"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Transistor, Darlington Pair" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="3.0cm" svg:x="1.0cm" svg:y="11.0cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5000" draw:text-areas="0 5200 5000 5900" draw:type="NonPrimitive" draw:enhanced-path="
+U 2500 2500 5000 5000 0 360 Z F N
+
+
+M 0 2500
+L 819 2500
+M 819 1936
+L 819 3064
+M 819 2059
+L 1915 1681
+L 1915 335
+L 3750 335
+L 3750 3319
+L 3021 3570 F N
+M 819 2941
+L 1915 3319
+L 1915 3992
+L 3021 3992 F N
+M 3021 3298
+L 3021 4686 F N
+M 3021 4414
+L 3750 4665 F N
+
+M 1915 3319
+L 1671 3038
+L 1549 3390 Z N
+M 3750 4665
+L 3506 4384
+L 3385 4736 Z N
+"/>
+<draw:glue-point draw:id="7" svg:x="-5cm" svg:y="0cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="8" svg:x="2.5cm" svg:y="-4.33cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="9" svg:x="2.5cm" svg:y="4.33cm" draw:escape-direction="down"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Phototransistor, with base" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="1.57cm" svg:x="1.0cm" svg:y="16.0cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 2611" draw:text-areas="0 2811 5000 3411" draw:type="NonPrimitive" draw:enhanced-path="
+
+U 1306 1306 2612 2612 90 270 F N
+
+
+
+U 3694 1306 2612 2612 270 90 F N
+
+
+M 1306 0
+L 3694 0 F N
+M 1306 2611
+L 3694 2611 F N
+M 1306 0
+L 1306 2611 F N
+M 1120 1306
+L 1492 1306 F N
+
+M 1306 1306
+L 1492 984
+L 1120 984 Z N
+
+M 2123 1062
+L 2877 1062 F N
+M 2123 1550
+L 2877 1550 F N
+
+M 2877 1062
+L 2555 876
+L 2555 1247 Z N
+
+M 2877 1550
+L 2555 1736
+L 2555 1364 Z N
+M 3185 2611
+L 3185 1306
+L 3503 1306 F N
+M 3503 637
+L 3503 1975 F N
+M 4618 382
+L 3503 926 F N
+M 3503 1686
+L 4618 2229 F N
+M 4618 2229
+L 4410 1921
+L 4247 2255 Z N
+"/>
+<draw:glue-point draw:id="7" svg:x="-2.388cm" svg:y="-5cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="8" svg:x="-2.388cm" svg:y="4.998cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="9" svg:x="4.236cm" svg:y="-3.537cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="10" svg:x="4.236cm" svg:y="3.535cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="11" svg:x="1.37cm" svg:y="4.998cm" draw:escape-direction="down"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Phototransistor, without base" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="1.57cm" svg:x="1.0cm" svg:y="19.57cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 2611" draw:text-areas="0 2811 5000 3411" draw:type="NonPrimitive" draw:enhanced-path="
+
+U 1306 1306 2612 2612 90 270 F N
+
+
+
+U 3694 1306 2612 2612 270 90 F N
+
+
+M 1306 0
+L 3694 0 F N
+M 1306 2611
+L 3694 2611 F N
+M 1306 0
+L 1306 2611 F N
+M 1120 1306
+L 1492 1306 F N
+
+M 1306 1306
+L 1492 984
+L 1120 984 Z N
+
+M 2123 1062
+L 2877 1062 F N
+M 2123 1550
+L 2877 1550 F N
+
+M 2877 1062
+L 2555 876
+L 2555 1247 Z N
+
+M 2877 1550
+L 2555 1736
+L 2555 1364 Z N
+M 3503 637
+L 3503 1975 F N
+M 4618 382
+L 3503 926 F N
+M 3503 1686
+L 4618 2229 F N
+M 4618 2229
+L 4410 1921
+L 4247 2255 Z N
+"/>
+<draw:glue-point draw:id="7" svg:x="-2.388cm" svg:y="-5cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="8" svg:x="-2.388cm" svg:y="4.998cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="9" svg:x="4.236cm" svg:y="-3.537cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="10" svg:x="4.236cm" svg:y="3.535cm" draw:escape-direction="right"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="MOFSET, P-Chan" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="3.0cm" svg:x="6.0cm" svg:y="1.0cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5000" draw:text-areas="0 5200 5000 5900" draw:type="NonPrimitive" draw:enhanced-path="
+U 2500 2500 5000 5000 0 360 Z F N
+
+
+M 4268 732
+L 2500 732
+L 2500 4268
+L 4268 4268 F N
+M 732 4268
+L 1440 4268
+L 1440 732 F N
+M 2500 2500
+L 4268 2500
+L 4268 4268 F N
+
+M 3614 2500
+L 3153 2101
+L 3153 2899 Z N
+"/>
+<draw:glue-point draw:id="7" svg:x="3.536cm" svg:y="-3.536cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="8" svg:x="3.536cm" svg:y="3.536cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="9" svg:x="-3.536cm" svg:y="3.536cm" draw:escape-direction="left"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="MOFSET, N-Chan" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="3.0cm" svg:x="6.0cm" svg:y="6.0cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5000" draw:text-areas="0 5200 5000 5900" draw:type="NonPrimitive" draw:enhanced-path="
+U 2500 2500 5000 5000 0 360 Z F N
+
+
+M 4268 732
+L 2500 732
+L 2500 4268
+L 4268 4268 F N
+M 732 4268
+L 1440 4268
+L 1440 732 F N
+M 2500 2500
+L 4268 2500
+L 4268 4268 F N
+
+M 3153 2500
+L 3614 2101
+L 3614 2899 Z N
+"/>
+<draw:glue-point draw:id="7" svg:x="3.536cm" svg:y="-3.536cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="8" svg:x="3.536cm" svg:y="3.536cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="9" svg:x="-3.536cm" svg:y="3.536cm" draw:escape-direction="left"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="TRIAC" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="3.0cm" svg:x="6.0cm" svg:y="11.0cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5000" draw:text-areas="0 5200 5000 5900" draw:type="NonPrimitive" draw:enhanced-path="
+U 2500 2500 5000 5000 0 360 F N
+
+
+M 0 2500
+L 1842 2500
+L 1842 4020
+M 5000 2500
+L 3158 2500
+L 3158 980
+M 3158 2196
+L 4482 1432
+L 4482 976 F N
+
+
+
+M 3158 1740
+L 1842 980
+L 1842 2500 Z N
+
+
+M 1842 3260
+L 3158 2500
+L 3158 4020 Z N
+"/>
+<draw:glue-point draw:id="7" svg:x="3.964cm" svg:y="-3.048cm" draw:escape-direction="top"/>
+<draw:glue-point draw:id="8" svg:x="5cm" svg:y="0cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="9" svg:x="-5cm" svg:y="0cm" draw:escape-direction="left"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Photodiode" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="3.03cm" svg:x="6.0cm" svg:y="16.0cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5053" draw:text-areas="0 5200 5000 5900" draw:type="NonPrimitive" draw:enhanced-path="
+
+U 3440 3493 3120 3120 0 360 F N
+
+M 1880 3493
+L 5000 3493
+M 3818 3115
+L 3818 3870 F N
+M 3818 3493
+L 3063 3057
+L 3063 3929 Z N
+
+M 525 0
+L 1786 1261 F N
+
+M 1971 1075
+L 2107 1582
+L 1600 1446 Z N
+
+
+M 0 525
+L 1261 1786 F N
+
+M 1446 1600
+L 1582 2107
+L 1075 1971 Z N
+"/>
+<draw:glue-point draw:id="8" svg:x="5cm" svg:y="1.913cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="9" svg:x="-1.24cm" svg:y="1.913cm" draw:escape-direction="left"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Thyristor" draw:style-name="SolidFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="3.0cm" svg:x="6.0cm" svg:y="21.0cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5000" draw:text-areas="0 5200 5000 5900" draw:type="NonPrimitive" draw:enhanced-path="
+
+U 2500 2500 5000 5000 0 360 F N
+
+
+M 0 2500
+L 5000 2500
+M 3156 1844
+L 3156 3156
+M 3156 2172
+L 4470 1413
+L 4470 961 F N
+
+
+M 3156 2500
+L 1844 1743
+L 1844 3257 Z N
+"/>
+
+<draw:glue-point draw:id="7" svg:x="3.94cm" svg:y="-3.078cm" draw:escape-direction="top"/>
+<draw:glue-point draw:id="8" svg:x="5cm" svg:y="0cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="9" svg:x="-5cm" svg:y="0cm" draw:escape-direction="left"/>
+
+
+</draw:custom-shape>
+<draw:custom-shape draw:name="Diode" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.998cm" svg:x="11.0cm" svg:y="1cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1663" draw:text-areas="0 1883 5000 2583" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 832
+L 1915 832
+M 1915 0
+L 1915 1663
+L 3356 832 Z
+M 3356 0
+L 3356 1663
+M 3356 832
+L 5000 832 N
+"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="Diode, Zener" draw:style-name="SolidLine" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="0.998cm" svg:x="11.0cm" svg:y="4cm">
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1663" draw:text-areas="0 1883 5000 2583" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 832
+L 1915 832
+M 1915 0
+L 1915 1663
+L 3356 832 Z
+M 3356 0
+L 3356 1663
+M 3356 832
+L 5000 832 N
+M 3356 0
+L 3759 0
+M 3356 1663
+L 2953 1663 F N
+"/>
+</draw:custom-shape>
+
+</draw:page>
+
+</office:drawing>
+</office:body>
+</office:document-content>

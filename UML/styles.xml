@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-styles xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" office:version="1.0">
+<office:styles>
+<draw:gradient draw:name="Gradient_20_7" draw:display-name="Gradient 7" draw:style="linear" draw:start-color="#000000" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="0" draw:border="0%"/>
+<draw:gradient draw:name="Gradient_20_8" draw:display-name="Gradient 8" draw:style="linear" draw:start-color="#000000" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="0" draw:border="0%"/>
+<draw:hatch draw:name="Hatch_20_1" draw:display-name="Hatch 1" draw:style="single" draw:color="#000000" draw:distance="0.02cm" draw:rotation="0"/>
+<draw:fill-image draw:name="Bitmape_20_1" draw:display-name="Bitmape 1" xlink:href="Pictures/10000000000000200000002000309F1C.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+
+
+
+ <draw:marker draw:name="StrokedCircle" svg:viewBox="0 0 200 200" svg:d="M 100 50 L 100 54 L 99 59 L 98 63 L 97 67 L 95 71 L 93 75 L 91 79 L 88 82 L 85 85 L 82 88 L 79 91 L 75 93 L 71 95 L 67 97 L 63 98 L 59 99 L 54 100 L 50 100 L 46 100 L 41 99 L 37 98 L 33 97 L 29 95 L 25 93 L 21 91 L 18 88 L 15 85 L 12 82 L 9 79 L 7 75 L 5 71 L 3 67 L 2 63 L 1 59 L 0 54 L 0 50 L 0 46 L 1 41 L 2 37 L 3 33 L 5 29 L 7 25 L 9 21 L 12 18 L 15 15 L 18 12 L 21 9 L 25 7 L 29 5 L 33 3 L 37 2 L 41 1 L 46 0 L 50 0 L 54 0 L 59 1 L 63 2 L 67 3 L 71 5 L 75 7 L 79 9 L 82 12 L 85 15 L 88 18 L 91 21 L 93 25 L 95 29 L 97 33 L 98 37 L 99 41 L 100 46 L 100 50 L 97 50 L 97 46 L 96 42 L 95 38 L 94 34 L 93 30 L 91 26 L 89 23 L 86 20 L 83 17 L 80 14 L 77 11 L 74 9 L 70 7 L 66 6 L 62 5 L 58 4 L 54 3 L 50 3 L 46 3 L 42 4 L 38 5 L 34 6 L 30 7 L 26 9 L 23 11 L 20 14 L 17 17 L 14 20 L 11 23 L 9 26 L 7 30 L 6 34 L 5 38 L 4 42 L 3 46 L 3 50 L 3 54 L 4 58 L 5 62 L 6 66 L 7 70 L 9 74 L 11 77 L 14 80 L 17 83 L 20 86 L 23 89 L 26 91 L 30 93 L 34 94 L 38 95 L 42 96 L 46 97 L 50 97 L 54 97 L 58 96 L 62 95 L 66 94 L 70 93 L 74 91 L 77 89 L 80 86 L 83 83 L 86 80 L 89 77 L 91 74 L 93 70 L 94 66 L 95 62 L 96 58 L 97 54 L 97 50 Z"/>
+ <draw:marker draw:name="StrokedDiamond" svg:viewBox="0 0 100 200" svg:d="M 50 0 L 100 100 L 50 200 L 0 100 L 50 0 L 50 4 L 96 100 L 50 196 L 4 100 L 50 4Z" />
+ <draw:marker draw:name="Arrow" svg:viewBox="0 0 100 200" svg:d="M 0 200 L 50 0 L 100 200 L 96 200 L 50 4 L 4 200Z"/>
+ <draw:marker draw:name="FilledDiamond" svg:viewBox="0 0 500 1000" svg:d=" M 5 0 L 10 10 L 5 20 L 0 10Z"/>
+ <draw:marker draw:name="StrokedTriangle" svg:viewBox="0 0 100 100" svg:d="M 0 100 L 50 0 L 100 96 L 96 96 L 50 4 L 4 96 L 100 96 L 100 100Z"/>
+ <draw:marker draw:name="StrokedHalfCircle" svg:viewBox="0 0 100 100" svg:d="M 100 50 L 100 54 L 99 59 L 98 63 L 97 67 L 95 71 L 93 75 L 91 79 L 88 82 L 85 85 L 82 88 L 79 91 L 75 93 L 71 95 L 67 97 L 63 98 L 59 99 L 54 100 L 50 100 L 46 100 L 41 99 L 37 98 L 33 97 L 29 95 L 25 93 L 21 91 L 18 88 L 15 85 L 12 82 L 9 79 L 7 75 L 5 71 L 3 67 L 2 63 L 1 59 L 0 54 L 0 50 L 3 50 L 3 54 L 4 58 L 5 62 L 6 66 L 7 70 L 9 74 L 11 77 L 14 80 L 17 83 L 20 86 L 23 89 L 26 91 L 30 93 L 34 94 L 38 95 L 42 96 L 46 97 L 50 97 L 54 97 L 58 96 L 62 95 L 66 94 L 70 93 L 74 91 L 77 89 L 80 86 L 83 83 L 86 80 L 89 77 L 91 74 L 93 70 L 94 66 L 95 62 L 96 58 L 97 54 L 97 50 "/> 
+<draw:stroke-dash draw:name="UML_Dash" draw:display-name="UML Dash" draw:style="rect" draw:dots1="1" draw:dots1-length="0.02cm" draw:dots2="1" draw:dots2-length="0.02cm" draw:distance="0.02cm"/>
+<draw:stroke-dash draw:name="Dash_20_2" draw:display-name="Dash 2" draw:style="rect" draw:dots1="1" draw:dots1-length="0.02cm" draw:dots2="1" draw:dots2-length="0.02cm" draw:distance="0.02cm"/>
+<style:default-style style:family="graphic">
+<style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+<style:tab-stops/>
+</style:paragraph-properties>
+<style:text-properties style:use-window-font-color="true" fo:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-family-asian="Tahoma" style:font-pitch-asian="variable" style:font-size-asian="24pt" style:language-asian="zxx" style:country-asian="none" style:font-family-complex="Tahoma" style:font-pitch-complex="variable" style:font-size-complex="24pt" style:language-complex="zxx" style:country-complex="none"/>
+</style:default-style>
+<style:style style:name="standard" style:family="graphic">
+<style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#000000" draw:marker-start-width="0.3cm" draw:marker-start-center="false" draw:marker-end-width="0.3cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#99ccff" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" draw:shadow="hidden" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:shadow-color="#808080">
+<text:list-style>
+<text:list-level-style-bullet text:level="1" text:bullet-char="?">
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="?">
+<style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="?">
+<style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="?">
+<style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="?">
+<style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="10" text:bullet-char="?">
+<style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+</text:list-style>
+</style:graphic-properties>
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" text:enable-numbering="false" fo:text-indent="0cm"/>
+<style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" fo:font-family="FreeSans" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="8pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-family-asian="Tahoma" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-family-complex="Tahoma" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+</style:style>
+<style:style style:name="objectwitharrow" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="solid" svg:stroke-width="0.15cm" svg:stroke-color="#000000" draw:marker-start="Arrow" draw:marker-start-width="0.7cm" draw:marker-start-center="true" draw:marker-end-width="0.3cm"/>
+</style:style>
+<style:style style:name="objectwithshadow" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:shadow="visible" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:shadow-color="#808080"/>
+</style:style>
+<style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke-dash="Dash_20_2" draw:fill="none" draw:fill-gradient-name="Gradient_20_8" draw:fill-hatch-name="Hatch_20_1" draw:fill-image-name="Bitmape_20_1" draw:auto-grow-height="false"/>
+</style:style>
+<style:style style:name="text" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="none" draw:fill="none"/>
+</style:style>
+<style:style style:name="textbody" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="none" draw:fill="none"/>
+<style:text-properties fo:font-size="16pt"/>
+</style:style>
+<style:style style:name="textbodyjustfied" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="none" draw:fill="none"/>
+<style:paragraph-properties fo:text-align="justify"/>
+</style:style>
+<style:style style:name="textbodyindent" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="none" draw:fill="none">
+<text:list-style>
+<text:list-level-style-bullet text:level="1" text:bullet-char="?">
+<style:list-level-properties text:space-before="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="?">
+<style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="?">
+<style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="?">
+<style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="?">
+<style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="10" text:bullet-char="?">
+<style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+</text:list-style>
+</style:graphic-properties>
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0.6cm"/>
+</style:style>
+<style:style style:name="title" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="none" draw:fill="none"/>
+<style:text-properties fo:font-size="44pt"/>
+</style:style>
+<style:style style:name="title1" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#008080" draw:shadow="visible" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080"/>
+<style:paragraph-properties fo:text-align="center"/>
+<style:text-properties fo:font-size="24pt"/>
+</style:style>
+<style:style style:name="title2" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties svg:stroke-width="0.05cm" draw:fill-color="#ffcc99" draw:shadow="visible" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080">
+<text:list-style>
+<text:list-level-style-bullet text:level="1" text:bullet-char="?">
+<style:list-level-properties text:space-before="0.2cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="?">
+<style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="?">
+<style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="?">
+<style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="?">
+<style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="10" text:bullet-char="?">
+<style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+</text:list-style>
+</style:graphic-properties>
+<style:paragraph-properties fo:margin-left="0.2cm" fo:margin-right="0.2cm" fo:margin-top="0.1cm" fo:margin-bottom="0.1cm" fo:text-align="center" fo:text-indent="0cm"/>
+<style:text-properties fo:font-size="36pt"/>
+</style:style>
+<style:style style:name="headline" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="none" draw:fill="none"/>
+<style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
+<style:text-properties fo:font-size="24pt"/>
+</style:style>
+<style:style style:name="headline1" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="none" draw:fill="none"/>
+<style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
+<style:text-properties fo:font-size="18pt" fo:font-weight="bold"/>
+</style:style>
+<style:style style:name="headline2" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="none" draw:fill="none"/>
+<style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
+<style:text-properties fo:font-size="14pt" fo:font-style="italic" fo:font-weight="bold"/>
+</style:style>
+<style:style style:name="measure" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="solid" draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:fill="none"/>
+<style:text-properties fo:font-size="8pt"/>
+</style:style>
+<style:style style:name="SolidLine" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="solid" draw:stroke-dash="Dash_20_2" svg:stroke-color="#000000" draw:fill-color="#ffffff" draw:fill-gradient-name="Gradient_20_7" draw:fill-hatch-name="Hatch_20_1" draw:fill-image-name="Bitmape_20_1" draw:fill-image-width="0cm" draw:fill-image-height="0cm" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:wrap-option="wrap"/>
+<style:text-properties style:use-window-font-color="true" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt" style:language-complex="zxx" style:country-complex="none"/>
+</style:style>
+<style:style style:name="BlackWhite" style:family="graphic" style:parent-style-name="standard">
+<style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#000000" draw:marker-start-width="0.3cm" draw:marker-start-center="false" draw:marker-end-width="0.3cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#000000" draw:secondary-fill-color="#ff0000" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" draw:shadow="hidden" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:shadow-color="#808080"/>
+</style:style>
+</office:styles>
+<office:automatic-styles>
+<style:page-layout style:name="PM0">
+<style:page-layout-properties fo:margin-top="0.635cm" fo:margin-bottom="0.538cm" fo:margin-left="0.635cm" fo:margin-right="0.665cm" fo:page-width="21.59cm" fo:page-height="27.94cm" style:print-orientation="portrait"/>
+</style:page-layout>
+<style:style style:name="dp1" style:family="drawing-page">
+<style:drawing-page-properties draw:background-size="border" draw:fill="none"/>
+</style:style>
+</office:automatic-styles>
+<office:master-styles>
+<draw:layer-set>
+<draw:layer draw:name="layout"/>
+<draw:layer draw:name="background"/>
+<draw:layer draw:name="backgroundobjects"/>
+<draw:layer draw:name="controls"/>
+<draw:layer draw:name="measurelines"/>
+</draw:layer-set>
+<style:master-page style:name="Default" style:page-layout-name="PM0" draw:style-name="dp1"/>
+</office:master-styles>
+</office:document-styles>

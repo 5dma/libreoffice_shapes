@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" office:version="1.0"><office:scripts/><office:automatic-styles><style:style style:name="dp1" style:family="drawing-page"/><style:style style:name="P1" style:family="paragraph"><style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/></style:style>
+
+<style:style style:name="P2" style:family="paragraph"><style:paragraph-properties fo:text-align="center"/>
+
+
+</style:style><text:list-style style:name="L1"><text:list-level-style-bullet text:level="1" text:bullet-char="?"><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="2" text:bullet-char="?"><style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="3" text:bullet-char="?"><style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="4" text:bullet-char="?"><style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="5" text:bullet-char="?"><style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="6" text:bullet-char="?"><style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="7" text:bullet-char="?"><style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="8" text:bullet-char="?"><style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="9" text:bullet-char="?"><style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="10" text:bullet-char="?"><style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet></text:list-style></office:automatic-styles><office:body><office:drawing>
+
+<draw:page draw:name="Walls and Tables" draw:style-name="dp1" draw:master-page-name="Default"><office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+
+<draw:custom-shape draw:name="4-Wall-Office" draw:style-name="Wall" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="4cm" svg:x="1cm" svg:y="1cm">
+<text:p text:style-name="P1">4-wall office</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" 
+draw:text-areas="0 1000 1000 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="M 1000 1000 L 1000 0 0 0 0 1000 F Z N">
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+
+
+<draw:custom-shape draw:name="Wall" draw:style-name="Wall" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="0.2cm" svg:x="1cm" svg:y="7cm"><text:p text:style-name="P1">Wall</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 50" draw:text-areas="0 50 1000 141" draw:type="NonPrimitive" 
+draw:enhanced-path="M 0 0 L 1000 0 Z N" />
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+
+
+
+
+<draw:custom-shape draw:name="6-Wall-Office" draw:style-name="Wall" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="4cm" svg:x="1cm" svg:y="9cm">
+<text:p text:style-name="P1">6-wall office</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 800" 
+draw:text-areas="0 800 1000 891" 
+draw:type="NonPrimitive" 
+draw:modifiers="450 400" 
+draw:enhanced-path="M 1000 800 L 1000 ?f0 ?f1 ?f0 ?f1 0 0 0 0 800 F Z N ">
+<draw:handle draw:handle-position="700 $0" draw:handle-range-y-minimum="top+50" draw:handle-range-y-maximum="bottom-50"/>
+<draw:handle draw:handle-position="$1 225" draw:handle-range-x-minimum="left+50" draw:handle-range-x-maximum="right-50"/>
+<draw:equation draw:name="f0" draw:formula="$0"/>
+<draw:equation draw:name="f1" draw:formula="$1"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="8-Wall-Office" draw:style-name="Wall" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="4cm" svg:x="1cm" svg:y="15cm">
+<text:p text:style-name="P1">8-wall office</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 800" 
+draw:text-areas="0 800 1000 891" 
+draw:type="NonPrimitive" 
+draw:modifiers="266 250 750 532" 
+draw:enhanced-path="M 0 0 L 0 ?f0 ?f1 ?f0 ?f1 800 ?f2 800 ?f2 ?f3 1000 ?f3 1000 0 Z N">
+<draw:handle draw:handle-position="125 $0" draw:handle-range-y-minimum="100" draw:handle-range-y-maximum="bottom-50"/>
+<draw:handle draw:handle-position="$1 508" draw:handle-range-x-minimum="left+50" draw:handle-range-x-maximum="?f6-100"/>
+<draw:handle draw:handle-position="$2 666" draw:handle-range-x-minimum="?f5+50" draw:handle-range-x-maximum="right-50"/>
+<draw:handle draw:handle-position="875 $3" draw:handle-range-y-minimum="top+50" draw:handle-range-y-maximum="bottom-50"/>
+<draw:equation draw:name="f0" draw:formula="$0"/>
+<draw:equation draw:name="f1" draw:formula="$1"/>
+<draw:equation draw:name="f2" draw:formula="$2"/>
+<draw:equation draw:name="f3" draw:formula="$3"/>
+<draw:equation draw:name="f4" draw:formula="$0-50"/>
+<draw:equation draw:name="f5" draw:formula="$1+50"/>
+<draw:equation draw:name="f6" draw:formula="$2-50"/>
+<draw:equation draw:name="f7" draw:formula="$3-50"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+
+
+<draw:custom-shape draw:name="CurvedWall" draw:style-name="Wall" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1cm" svg:x="1cm" svg:y="20cm"><text:p text:style-name="P1">Curved wall</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 250" draw:text-areas="0 250 1000 341" draw:type="NonPrimitive" 
+draw:modifiers="0" 
+
+draw:enhanced-path="M 0 250 C 100 125 900 125 1000 250 F N">
+<draw:handle draw:handle-position="500 $0" />
+<draw:equation draw:name="f0" draw:formula="250 + $0"/>
+<draw:equation draw:name="f1" draw:formula="$0"/>
+</draw:enhanced-geometry>
+
+</draw:custom-shape>
+
+
+
+<draw:custom-shape draw:name="OvalConferenceTable" draw:style-name="Table" draw:text-style-name="P2" draw:layer="layout" svg:width="2.35cm" svg:height="4cm" svg:x="10cm" svg:y="1cm">
+<text:p text:style-name="P1">Oval Conference Table</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 588 1000" 
+draw:text-areas="0 1000 588 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="U 294 275 294 275 0 180 U 294 725 294 275 180 360 M 588 275 L 588 725 Z N">
+</draw:enhanced-geometry>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="RoundConferenceTable" draw:style-name="Table" draw:text-style-name="P2" draw:layer="layout" svg:width="2.35cm" svg:height="4cm" svg:x="10cm" svg:y="6cm">
+<text:p text:style-name="P1">Round Conference Table</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 587 1000" 
+draw:text-areas="0 1000 587 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="U 500 500 500 500 0 360 Z N">
+</draw:enhanced-geometry>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+
+<draw:custom-shape draw:name="RectConferenceTable" draw:style-name="Table" draw:text-style-name="P2" draw:layer="layout" svg:width="2.35cm" svg:height="4cm" svg:x="10cm" svg:y="12cm">
+<text:p text:style-name="P1">Rectangular Conference Table</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 587 1000" 
+draw:text-areas="0 1000 587 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="M 0 0 L 587 0 587 1000 0 1000 Z N">
+</draw:enhanced-geometry>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="BoatConferenceTable" draw:style-name="Table" draw:text-style-name="P2" draw:layer="layout" svg:width="2.35cm" svg:height="4cm" svg:x="10cm" svg:y="17cm">
+<text:p text:style-name="P1">Boatshape Conference Table</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 587 1000" 
+draw:text-areas="0 1000 587 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="M 105 0 L 483 0
+M 483 1000 L 105 1000
+A 0 -153 587 1153 483 1000 483 0  
+A 0 -153 587 1153 105 0 105 1000  N
+
+
+">
+</draw:enhanced-geometry>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+</draw:page>
+
+<draw:page draw:name="Cabinets and Desks" draw:style-name="dp1" draw:master-page-name="Cabinets"><office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+
+<draw:custom-shape draw:name="Bookshelf" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="1cm" svg:height="3cm" svg:x="1cm" svg:y="1cm">
+<text:p text:style-name="P1">Bookshelf</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 333 1000" 
+draw:text-areas="0 1000 333 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="M 0 0 L 333 0 333 1000 0 1000 F Z N
+M 333 10 L 10 10 10 990 333 990 F N ">
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="FilingCabinet" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="2.22cm" svg:x="1cm" svg:y="5cm">
+<text:p text:style-name="P1">Filing Cabinet</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 555" 
+draw:text-areas="0 555 1000 646" 
+draw:type="NonPrimitive" 
+draw:modifiers="1100 10" 
+draw:enhanced-path="M 0 0 L 1000 0 1000 556 0 556 F Z N
+ 
+M 1000 0 L ?f0 0 ?f0 556 1000 556 F Z N
+M 1000 $1 L ?f1 $1 ?f1 ?f2 1000 ?f2 F N 
+M ?f0 258 L ?f3 258 ?f3 298 ?f0 298 F Z N
+">
+<draw:handle draw:handle-position="$0 278" draw:handle-range-x-minimum="right"/>
+<draw:equation draw:name="f0" draw:formula="$0"/>
+<draw:equation draw:name="f1" draw:formula="$0 - 10 "/>
+<draw:equation draw:name="f2" draw:formula="555 - $1 "/>
+<draw:equation draw:name="f3" draw:formula="$0 + 20 "/>
+
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="LateralCabinet" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="1.5cm" svg:height="4cm" svg:x="1cm" svg:y="10cm">
+<text:p text:style-name="P1">Lateral Cabinet</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 374 1000" 
+draw:text-areas="0 1000 374 1091" 
+draw:type="NonPrimitive" 
+draw:modifiers="425 10" 
+draw:enhanced-path="M 0 0 L 374 0 374 1000 0 1000 F Z N
+ 
+M 374 0 L ?f0 0 ?f0 1000 374 1000 F Z N
+M 374 $1 L ?f1 $1 N M 374 ?f2 L ?f1 ?f2 N M ?f1 0 L ?f1 1000 N 
+M ?f0 440 L ?f3 440 ?f3 560 ?f0 560 F Z N
+">
+<draw:handle draw:handle-position="$0 500" draw:handle-range-x-minimum="right"/>
+<draw:equation draw:name="f0" draw:formula="$0"/>
+<draw:equation draw:name="f1" draw:formula="$0 - 10 "/>
+<draw:equation draw:name="f2" draw:formula="1000 - $1 "/>
+<draw:equation draw:name="f3" draw:formula="$0 + 20 "/>
+<draw:equation draw:name="f4" draw:formula="?f1 - $1 "/>
+
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="FlatCabinet" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="2.9cm" svg:height="4cm" svg:x="1cm" svg:y="17cm">
+<text:p text:style-name="P1">Flat Drawing Cabinet</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 726 1000" 
+draw:text-areas="0 1000 726 1091" 
+draw:type="NonPrimitive" 
+draw:modifiers="800 10" 
+draw:enhanced-path="M 0 0 L 726 0 726 1000 0 1000 F Z N
+ 
+M 726 0 L ?f0 0 ?f0 1000 726 1000 F Z N
+M 726 $1 L ?f1 $1 ?f1 ?f2 726 ?f2 F N 
+M ?f0 273 L ?f3 273 ?f3 393 ?f0 393
+M ?f0 606 L ?f3 606 ?f3 726 ?f0 726F Z N
+">
+<draw:handle draw:handle-position="$0 500" draw:handle-range-x-minimum="right"/>
+<draw:equation draw:name="f0" draw:formula="$0"/>
+<draw:equation draw:name="f1" draw:formula="$0 - 10 "/>
+<draw:equation draw:name="f2" draw:formula="1000 - $1 "/>
+<draw:equation draw:name="f3" draw:formula="$0 + 20 "/>
+
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+
+
+<draw:custom-shape draw:name="CornerConnector" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="4cm" svg:x="7cm" svg:y="1cm">
+<text:p text:style-name="P1">Corner Connector</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" 
+draw:text-areas="0 1000 1000 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="M 0 0 L 1000 0 1000 1000 X 0 0 F Z N 
+">
+
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="CornerDesk" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="4cm" svg:x="7cm" svg:y="7cm">
+<text:p text:style-name="P1">Corner Desk</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" 
+draw:text-areas="0 1000 1000 1091" 
+draw:type="NonPrimitive" 
+draw:modifiers="200 700 150" 
+
+draw:enhanced-path="M 0 0 L $0 0 $0 $1 ?f0 ?f1 1000 ?f1 1000 1000 $2 1000 X 0 ?f2 F Z N">
+<draw:handle draw:handle-position="$0 $1" draw:handle-range-x-maximum="right" draw:handle-range-x-minimum="left" draw:handle-range-y-minimum="top" draw:handle-range-y-maximum="bottom"/>
+<draw:handle draw:handle-position="$2 1000" draw:handle-range-x-maximum="right" draw:handle-range-x-minimum="left"/>
+<draw:equation draw:name="f0" draw:formula="right - $1"/>
+<draw:equation draw:name="f1" draw:formula="bottom - $0"/>
+<draw:equation draw:name="f2" draw:formula="bottom - $2"/>
+
+
+
+</draw:enhanced-geometry>
+</draw:custom-shape>
+</draw:page>
+
+
+<draw:page draw:name="Furniture" draw:style-name="dp1" draw:master-page-name="Furniture"><office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+
+<draw:custom-shape draw:name="ExecutiveChair" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="4cm" svg:x="1cm" svg:y="1cm">
+<text:p text:style-name="P1">Executive Chair</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" 
+draw:text-areas="0 1000 1000 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="
+M 78 0
+L 167 0
+W 0 0 302 344 167 0 302 172
+L 302 828
+W 0 656 302 1000 302 828 167 1000
+L 78 1000
+X 0 922
+L 0 78
+Y 78 0
+
+
+
+M 167 0
+L 949 0
+W 644 -53 1000 303 949 0 949 249
+L 302 249
+
+
+
+M 78 1000
+L 949 1000
+A 644 697 1000 1053 949 1000 949 751
+L 302 751
+
+
+M 949 751
+L 949 249
+F N ">
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="2SeatCouch" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="9cm" svg:x="1cm" svg:y="7cm">
+<text:p text:style-name="P1">2-Seat Couch</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 500 1000" 
+draw:text-areas="0 1000 500 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="
+M 39 0
+L 83 0
+W 0 0 151 87 83 0 151 43
+L 151 957
+W 0 913 151 1000 151 957 83 1000
+L 39 1000
+X 0 961
+L 0 39
+Y 39 0
+
+
+
+M 83 0
+L 474 0
+W 322 -27 500 151 474 0 474 125
+L 151 125
+
+
+
+M 83 1000
+L 474 1000
+A 322 849 500 1027 474 1000 474 875
+L 151 875
+
+
+M 474 875
+L 474 125
+M 474 500
+L 151 500
+F N ">
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="3SeatCouch" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="3.27cm" svg:height="9cm" svg:x="7cm" svg:y="1cm">
+<text:p text:style-name="P1">3-Seat Couch</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 363 1000" 
+draw:text-areas="0 1000 500 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="
+M 28 0
+L 61 0
+W 0 0 110 63 61 0 110 32
+L 110 968
+W 0 937 110 1000 110 968 61 1000
+L 28 1000
+X 0 972
+L 0 28
+Y 28 0
+M 61 0
+L 345 0
+W 234 -19 363 110 345 0 345 91
+L 110 91
+M 61 1000
+L 345 1000
+A 234 890 363 1019 345 1000 345 909
+L 110 909
+M 345 364
+L 110 364
+M 345 636
+L 110 636
+M 345 91
+L 345 909
+F N ">
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="TaskChair" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="3.49cm" svg:x="12cm" svg:y="1cm">
+<text:p text:style-name="P1">Task Chair</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 873" 
+draw:text-areas="0 873 1000 964" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="
+
+M 398 0
+L 746 0
+X 1000 254
+L 1000 619
+Y 746 873
+L 398 873
+W 167 412 628 873 398 873 216 795
+V 167 0 628 461 216 78 398 0
+M 190 437
+L 224 112
+B 57 26 222 190 224 112 55 52
+L 0 437
+L 70 811
+B 57 683 222 847 55 821 224 761
+L 190 437
+
+
+F N ">
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="DeskChair" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="4cm" svg:x="12cm" svg:y="6cm">
+<text:p text:style-name="P1">Desk Chair</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" 
+draw:text-areas="0 1000 1000 1091" 
+draw:type="NonPrimitive" 
+draw:enhanced-path="
+
+V 145 102 875 838 174 325 372 129
+M 702 88
+L 772 88
+X 1000 333
+L 1000 667
+Y 772 912
+L 702 912
+
+V 145 162 875 898 372 871 174 675
+
+U 643 67 63 63 270 90
+L 269 4
+U 269 67 63 63 90 270
+L 643 129
+U 643 933 63 63 270 90
+L 269 870
+U 269 933 63 63 90 270
+L 643 996
+
+B 166 144 291 864 195 200 195 808
+
+V 108 752 197 841 195 808 121 827
+B 108 159 197 248 195 200 121 173
+V 3 140 409 861 121 827 121 173
+
+
+
+F N ">
+</draw:enhanced-geometry>
+</draw:custom-shape>
+
+
+</draw:page>
+
+
+
+
+
+</office:drawing></office:body></office:document-content>

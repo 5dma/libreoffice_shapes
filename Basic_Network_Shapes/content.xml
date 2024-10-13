@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2">
+<office:scripts/>
+<office:font-face-decls>
+<style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-pitch="variable"/>
+<style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
+<style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+<style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+<style:font-face style:name="Arial1" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+<style:font-face style:name="Mangal" svg:font-family="Mangal" style:font-family-generic="system" style:font-pitch="variable"/>
+<style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+</office:font-face-decls>
+<office:automatic-styles>
+<style:style style:name="dp1" style:family="drawing-page"/>
+<style:style style:name="P1" style:family="paragraph">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
+</style:style>
+<style:style style:name="P2" style:family="paragraph">
+<style:paragraph-properties fo:text-align="center"/>
+</style:style>
+<text:list-style style:name="L1">
+<text:list-level-style-bullet text:level="1" text:bullet-char="?">
+<style:list-level-properties/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="?">
+<style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="?">
+<style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="?">
+<style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="?">
+<style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="10" text:bullet-char="?">
+<style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+</text:list-style>
+</office:automatic-styles>
+<office:body>
+<office:drawing>
+<draw:page draw:name="page1" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+<draw:custom-shape draw:name="TapeDrive" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1.33cm" svg:x="1cm" svg:y="1cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p text:style-name="P1">Tape Drive</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 333" draw:text-areas="0 334 1000 428" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 333 0 333 F Z N M 62 54 L 812 54 812 279 62 279 Z N M 883 85 L 933 85 933 250 883 250 Z N M 143 110 L 731 110 731 225 143 225 Z N M 155 118 L 155 215 720 215 720 118 N M 143 110 L 143 225 731 225 731 110 729 110 729 223 145 223 145 110 F Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Multiplexer" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1cm" svg:x="1cm" svg:y="6cm">
+<draw:glue-point draw:id="4" svg:x="-4.07cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="5" svg:x="-3.45cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="6" svg:x="-2.83cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="7" svg:x="-2.2cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="8" svg:x="-1.58cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="9" svg:x="-0.96cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="10" svg:x="-0.34cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="11" svg:x="0.28cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="12" svg:x="0.9cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="13" svg:x="1.52cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="14" svg:x="2.14cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="15" svg:x="2.76cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="16" svg:x="3.38cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="17" svg:x="4cm" svg:y="-2.52cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="18" svg:x="-4.07cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="19" svg:x="-3.45cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="20" svg:x="-2.83cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="21" svg:x="-2.2cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="22" svg:x="-1.58cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="23" svg:x="-0.96cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="24" svg:x="-0.34cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="25" svg:x="0.28cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="26" svg:x="0.9cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="27" svg:x="1.52cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="28" svg:x="2.14cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="29" svg:x="2.76cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="30" svg:x="3.38cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="31" svg:x="4cm" svg:y="1.24cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="32" svg:x="0cm" svg:y="-5cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="33" svg:x="-5cm" svg:y="0cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="34" svg:x="-4.07cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="35" svg:x="-3.45cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="36" svg:x="-2.83cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="37" svg:x="-2.2cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="38" svg:x="-1.58cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="39" svg:x="-0.96cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="40" svg:x="-0.34cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="41" svg:x="0.28cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="42" svg:x="0.9cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="43" svg:x="1.52cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="44" svg:x="2.14cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="45" svg:x="2.76cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="46" svg:x="3.38cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="47" svg:x="4cm" svg:y="-0.6cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="48" svg:x="5cm" svg:y="0cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="49" svg:x="0cm" svg:y="5cm" draw:escape-direction="down"/>
+<text:p text:style-name="P1">Multiplexer</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 250" draw:text-areas="0 251 1000 345" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 250 0 250 F Z N M 30 28 L 30 216 N M 965 28 L 965 216 N M 62 33 L 938 33 938 96 62 96 F Z N M 62 125 L 938 125 938 188 62 188 F Z N M 733 203 L 766 203 766 236 733 236 Z N M 783 203 L 816 203 816 236 783 236 Z N M 828 203 L 861 203 861 236 828 236 Z N M 878 203 L 938 203 938 236 878 236 Z N T 93 62 34 34 0 360 F Z N T 155 62 34 34 0 360 F Z N T 217 62 34 34 0 360 F Z N T 280 62 34 34 0 360 F Z N T 342 62 34 34 0 360 F Z N T 404 62 34 34 0 360 F Z N T 466 62 34 34 0 360 F Z N T 528 62 34 34 0 360 F Z N T 590 62 34 34 0 360 F Z N T 652 62 34 34 0 360 F Z N T 714 62 34 34 0 360 F Z N T 776 62 34 34 0 360 F Z N T 838 62 34 34 0 360 F Z N T 900 62 34 34 0 360 F Z N T 93 156 34 34 0 360 F Z N T 155 156 34 34 0 360 F Z N T 217 156 34 34 0 360 F Z N T 280 156 34 34 0 360 F Z N T 342 156 34 34 0 360 F Z N T 404 156 34 34 0 360 F Z N T 466 156 34 34 0 360 F Z N T 528 156 34 34 0 360 F Z N T 590 156 34 34 0 360 F Z N T 652 156 34 34 0 360 F Z N T 714 156 34 34 0 360 F Z N T 776 156 34 34 0 360 F Z N T 838 156 34 34 0 360 F Z N T 900 156 34 34 0 360 F Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Bridge" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1cm" svg:x="1cm" svg:y="10cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p text:style-name="P1">Bridge</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 250" draw:text-areas="0 251 1000 345" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 250 0 250 F Z N M 0 35 L 1000 35 N M 428 88 L 963 88 963 153 428 153 F Z N M 48 90 L 102 90 102 154 48 154 Z N M 455 107 L 482 107 482 139 455 139 Z N M 505 107 L 532 107 532 139 505 139 Z N M 555 107 L 582 107 582 139 555 139 Z N M 633 107 L 660 107 660 139 633 139 Z N M 708 107 L 735 107 735 139 708 139 Z N M 760 107 L 787 107 787 139 760 139 Z N M 810 107 L 837 107 837 139 810 139 Z N M 860 107 L 887 107 887 139 860 139 Z N M 910 107 L 937 107 937 139 910 139 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Hub" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1cm" svg:x="1cm" svg:y="14cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p text:style-name="P1">Hub</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 250" draw:text-areas="0 251 1000 345" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 250 0 250 F Z N M 63 31 L 187 31 187 95 63 95 Z N M 63 125 L 188 125 188 250 63 250 F Z N M 248 125 L 687 125 687 250 248 250 F Z N M 748 125 L 935 125 935 250 748 250 F Z N T 123 189 44 44 0 360 F Z N T 311 189 44 44 0 360 F Z N T 373 189 44 44 0 360 F Z N T 436 189 44 44 0 360 F Z N T 498 189 44 44 0 360 F Z N T 561 189 44 44 0 360 F Z N T 623 189 44 44 0 360 F Z N T 811 189 44 44 0 360 F Z N T 873 189 44 44 0 360 F Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Hub48" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1cm" svg:x="6cm" svg:y="14cm">
+<draw:glue-point draw:id="4" svg:x="-4.37cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="5" svg:x="-3.79cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="6" svg:x="-3.21cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="7" svg:x="-2.63cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="8" svg:x="-2.05cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="9" svg:x="-1.47cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="10" svg:x="-0.89cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="11" svg:x="-0.31cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="12" svg:x="0.27cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="13" svg:x="0.85cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="14" svg:x="1.43cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="15" svg:x="2.01cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="16" svg:x="2.59cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="17" svg:x="3.17cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="18" svg:x="3.75cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="19" svg:x="4.35cm" svg:y="-2.48cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="20" svg:x="-4.37cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="21" svg:x="-3.79cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="22" svg:x="-3.21cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="23" svg:x="-2.63cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="24" svg:x="-2.05cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="25" svg:x="-1.47cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="26" svg:x="-0.89cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="27" svg:x="-0.31cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="28" svg:x="0.27cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="29" svg:x="0.85cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="30" svg:x="1.43cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="31" svg:x="2.01cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="32" svg:x="2.59cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="33" svg:x="3.17cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="34" svg:x="3.75cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="35" svg:x="4.35cm" svg:y="0cm" draw:escape-direction="down"/>
+<draw:glue-point draw:id="36" svg:x="-4.37cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="37" svg:x="-3.79cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="38" svg:x="-3.21cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="39" svg:x="-2.63cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="40" svg:x="-2.05cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="41" svg:x="-1.47cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="42" svg:x="-0.89cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="43" svg:x="-0.31cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="44" svg:x="0.27cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="45" svg:x="0.85cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="46" svg:x="1.43cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="47" svg:x="2.01cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="48" svg:x="2.59cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="49" svg:x="3.17cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="50" svg:x="3.75cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<draw:glue-point draw:id="51" svg:x="4.35cm" svg:y="2.56cm" draw:escape-direction="vertical"/>
+<text:p text:style-name="P1">Hub 48 connections</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 250" draw:text-areas="0 251 1000 345" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 250 0 250 F Z N M 63 31 L 187 31 187 95 63 95 Z N M 63 125 L 188 125 188 250 63 250 F Z N M 248 125 L 687 125 687 250 248 250 F Z N M 748 125 L 935 125 935 250 748 250 F Z N T 123 189 44 44 0 360 F Z N T 311 189 44 44 0 360 F Z N T 373 189 44 44 0 360 F Z N T 436 189 44 44 0 360 F Z N T 498 189 44 44 0 360 F Z N T 561 189 44 44 0 360 F Z N T 623 189 44 44 0 360 F Z N T 811 189 44 44 0 360 F Z N T 873 189 44 44 0 360 F Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Modem" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1.334cm" svg:x="1cm" svg:y="18cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<draw:glue-point draw:id="5" svg:x="-3.08cm" svg:y="0.942cm"/>
+<draw:glue-point draw:id="6" svg:x="-1.03cm" svg:y="0.942cm"/>
+<draw:glue-point draw:id="7" svg:x="1.01cm" svg:y="0.942cm"/>
+<draw:glue-point draw:id="8" svg:x="3.06cm" svg:y="0.942cm"/>
+<text:p text:style-name="P1">Modem</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 345" draw:text-areas="0 346 1000 436" draw:type="NonPrimitive" draw:enhanced-path="M 0 345 L 0 56 81 56 188 0 813 0 919 56 1000 56 1000 345 F Z N M 31 299 L 31 138 Y 101 102 L 899 102 X 969 138 L 969 299 Z N T 192 205 88 88 0 360 F Z N T 397 205 88 88 0 360 F Z N T 601 205 88 88 0 360 F Z N T 806 205 88 88 0 360 F Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Printer" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1.334cm" svg:x="1cm" svg:y="22cm">
+<draw:glue-point draw:id="4" svg:x="-1cm" svg:y="-3.723cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="5" svg:x="0cm" svg:y="-1.277cm"/>
+<draw:glue-point draw:id="6" svg:x="2.25cm" svg:y="-1.627cm" draw:escape-direction="right"/>
+<text:p text:style-name="P1">Printer</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 415" draw:text-areas="0 406 1000 500" draw:type="NonPrimitive" draw:enhanced-path="M 0 53 L 678 53 725 120 725 365 700 365 700 415 25 415 25 365 0 365 F Z N M 450 53 L 588 8 631 53 F N M 725 214 L 791 253 979 194 995 234 725 323 F N M 0 280 L 725 280 F N M 43 190 L 183 190 F N M 43 165 L 183 165 F N M 43 143 L 183 143 F N M 43 120 L 183 120 F N M 43 98 L 183 98 F N M 25 365 L 700 365 F N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="CommLink" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1cm" svg:x="12cm" svg:y="1cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p text:style-name="P1">Comm Link</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 250" draw:text-areas="0 251 1000 340" draw:type="NonPrimitive" draw:enhanced-path="M 0 125 L 625 0 535 175 1000 125 375 250 468 78 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Server" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="2.4cm" svg:height="4cm" svg:x="12cm" svg:y="6cm">
+<draw:glue-point draw:id="4" svg:x="1.008cm" svg:y="0.005cm"/>
+<text:p text:style-name="P1">Server</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 600 1000" draw:text-areas="0 1001 600 1091" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 600 0 600 974 0 974 F Z N M 52 974 L 52 1000 552 1000 552 974 F N T 94 88 12 10 0 360 Z N T 94 213 12 10 0 360 Z N T 94 248 12 10 0 360 Z N M 236 49 L 569 49 569 357 236 357 Z N M 236 152 L 569 152 F N M 236 254 L 569 254 F N M 136 77 L 202 77 202 301 136 301 Z N M 169 77 L 169 301 F N M 160 156 L 177 156 177 212 160 212 F Z N M 136 385 L 569 385 569 905 136 905 F Z N M 161 410 L 193 410 193 442 161 442 Z N M 212 410 L 244 410 244 442 212 442 Z N M 264 410 L 296 410 296 442 264 442 Z N M 316 410 L 348 410 348 442 316 442 Z N M 407 410 L 439 410 439 442 407 442 Z N M 459 410 L 491 410 491 442 459 442 Z N M 510 410 L 542 410 542 442 510 442 Z N M 161 464 L 193 464 193 496 161 496 Z N M 212 464 L 244 464 244 496 212 496 Z N M 264 464 L 296 464 296 496 264 496 Z N M 407 464 L 439 464 439 496 407 496 Z N M 459 464 L 491 464 491 496 459 496 Z N M 510 464 L 542 464 542 496 510 496 Z N M 161 519 L 193 519 193 551 161 551 Z N M 212 519 L 244 519 244 551 212 551 Z N M 264 519 L 296 519 296 551 264 551 Z N M 407 519 L 439 519 439 551 407 551 Z N M 459 519 L 491 519 491 551 459 551 Z N M 510 519 L 542 519 542 551 510 551 Z N M 161 574 L 193 574 193 606 161 606 Z N M 212 574 L 244 574 244 606 212 606 Z N M 264 574 L 296 574 296 606 264 606 Z N M 316 574 L 348 574 348 606 316 606 Z N M 407 574 L 439 574 439 606 407 606 Z N M 459 574 L 491 574 491 606 459 606 Z N M 510 574 L 542 574 542 606 510 606 Z N M 161 629 L 193 629 193 661 161 661 Z N M 212 629 L 244 629 244 661 212 661 Z N M 264 629 L 296 629 296 661 264 661 Z N M 316 629 L 348 629 348 661 316 661 Z N M 407 629 L 439 629 439 661 407 661 Z N M 459 629 L 491 629 491 661 459 661 Z N M 510 629 L 542 629 542 661 510 661 Z N M 161 684 L 193 684 193 716 161 716 Z N M 212 684 L 244 684 244 716 212 716 Z N M 264 684 L 296 684 296 716 264 716 Z N M 316 684 L 348 684 348 716 316 716 Z N M 407 684 L 439 684 439 716 407 716 Z N M 459 684 L 491 684 491 716 459 716 Z N M 510 684 L 542 684 542 716 510 716 Z N M 161 738 L 193 738 193 770 161 770 Z N M 212 738 L 244 738 244 770 212 770 Z N M 264 738 L 296 738 296 770 264 770 Z N M 316 738 L 348 738 348 770 316 770 Z N M 407 738 L 439 738 439 770 407 770 Z N M 459 738 L 491 738 491 770 459 770 Z N M 510 738 L 542 738 542 770 510 770 Z N M 161 793 L 193 793 193 825 161 825 Z N M 212 793 L 244 793 244 825 212 825 Z N M 264 793 L 296 793 296 825 264 825 Z N M 316 793 L 348 793 348 825 316 825 Z N M 407 793 L 439 793 439 825 407 825 Z N M 459 793 L 491 793 491 825 459 825 Z N M 510 793 L 542 793 542 825 510 825 Z N M 161 848 L 193 848 193 880 161 880 Z N M 212 848 L 244 848 244 880 212 880 Z N M 264 848 L 296 848 296 880 264 880 Z N M 316 848 L 348 848 348 880 316 880 Z N M 407 848 L 439 848 439 880 407 880 Z N M 459 848 L 491 848 491 880 459 880 Z N M 510 848 L 542 848 542 880 510 880 Z N M 315 455 L 406 455 406 546 315 546 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Server48" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="2.4cm" svg:height="4cm" svg:x="15.4cm" svg:y="6cm">
+<draw:glue-point draw:id="4" svg:x="-2.733cm" svg:y="-1.15cm"/>
+<draw:glue-point draw:id="5" svg:x="-2.733cm" svg:y="-0.11cm"/>
+<draw:glue-point draw:id="6" svg:x="-2.733cm" svg:y="0.93cm"/>
+<draw:glue-point draw:id="7" svg:x="-2.733cm" svg:y="1.97cm"/>
+<draw:glue-point draw:id="8" svg:x="-2.733cm" svg:y="3.01cm"/>
+<draw:glue-point draw:id="9" svg:x="-2.733cm" svg:y="4.05cm"/>
+<draw:glue-point draw:id="10" svg:x="-1.3cm" svg:y="-1.15cm"/>
+<draw:glue-point draw:id="11" svg:x="-1.3cm" svg:y="-0.11cm"/>
+<draw:glue-point draw:id="12" svg:x="-1.3cm" svg:y="0.93cm"/>
+<draw:glue-point draw:id="13" svg:x="-1.3cm" svg:y="1.97cm"/>
+<draw:glue-point draw:id="14" svg:x="-1.3cm" svg:y="3.01cm"/>
+<draw:glue-point draw:id="15" svg:x="-1.3cm" svg:y="4.05cm"/>
+<draw:glue-point draw:id="16" svg:x="0.133cm" svg:y="-1.15cm"/>
+<draw:glue-point draw:id="17" svg:x="0.133cm" svg:y="-0.11cm"/>
+<draw:glue-point draw:id="18" svg:x="0.133cm" svg:y="0.93cm"/>
+<draw:glue-point draw:id="19" svg:x="0.133cm" svg:y="1.97cm"/>
+<draw:glue-point draw:id="20" svg:x="0.133cm" svg:y="3.01cm"/>
+<draw:glue-point draw:id="21" svg:x="0.133cm" svg:y="4.05cm"/>
+<draw:glue-point draw:id="22" svg:x="1.567cm" svg:y="-1.15cm"/>
+<draw:glue-point draw:id="23" svg:x="1.567cm" svg:y="-0.11cm"/>
+<draw:glue-point draw:id="24" svg:x="1.567cm" svg:y="0.93cm"/>
+<draw:glue-point draw:id="25" svg:x="1.567cm" svg:y="1.97cm"/>
+<draw:glue-point draw:id="26" svg:x="1.567cm" svg:y="3.01cm"/>
+<draw:glue-point draw:id="27" svg:x="1.567cm" svg:y="4.05cm"/>
+<draw:glue-point draw:id="28" svg:x="3cm" svg:y="-1.15cm"/>
+<draw:glue-point draw:id="29" svg:x="3cm" svg:y="-0.11cm"/>
+<draw:glue-point draw:id="30" svg:x="3cm" svg:y="0.93cm"/>
+<draw:glue-point draw:id="31" svg:x="3cm" svg:y="1.97cm"/>
+<draw:glue-point draw:id="32" svg:x="3cm" svg:y="3.01cm"/>
+<draw:glue-point draw:id="33" svg:x="3cm" svg:y="4.05cm"/>
+<draw:glue-point draw:id="34" svg:x="4.483cm" svg:y="-1.15cm"/>
+<draw:glue-point draw:id="35" svg:x="4.483cm" svg:y="-0.11cm"/>
+<draw:glue-point draw:id="36" svg:x="4.483cm" svg:y="0.93cm"/>
+<draw:glue-point draw:id="37" svg:x="4.483cm" svg:y="1.97cm"/>
+<draw:glue-point draw:id="38" svg:x="4.483cm" svg:y="3.01cm"/>
+<draw:glue-point draw:id="39" svg:x="4.483cm" svg:y="4.05cm"/>
+<text:p text:style-name="P1">Server 48 connections</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 600 1000" draw:text-areas="0 1001 600 1091" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 600 0 600 974 0 974 F Z N M 52 974 L 52 1000 552 1000 552 974 F N T 94 88 12 10 0 360 Z N T 94 213 12 10 0 360 Z N T 94 248 12 10 0 360 Z N M 236 49 L 569 49 569 357 236 357 Z N M 236 152 L 569 152 F N M 236 254 L 569 254 F N M 136 77 L 202 77 202 301 136 301 Z N M 169 77 L 169 301 F N M 160 156 L 177 156 177 212 160 212 F Z N M 136 385 L 569 385 569 905 136 905 F Z N M 161 410 L 193 410 193 442 161 442 Z N M 212 410 L 244 410 244 442 212 442 Z N M 264 410 L 296 410 296 442 264 442 Z N M 316 410 L 348 410 348 442 316 442 Z N M 407 410 L 439 410 439 442 407 442 Z N M 459 410 L 491 410 491 442 459 442 Z N M 510 410 L 542 410 542 442 510 442 Z N M 161 464 L 193 464 193 496 161 496 Z N M 212 464 L 244 464 244 496 212 496 Z N M 264 464 L 296 464 296 496 264 496 Z N M 407 464 L 439 464 439 496 407 496 Z N M 459 464 L 491 464 491 496 459 496 Z N M 510 464 L 542 464 542 496 510 496 Z N M 161 519 L 193 519 193 551 161 551 Z N M 212 519 L 244 519 244 551 212 551 Z N M 264 519 L 296 519 296 551 264 551 Z N M 407 519 L 439 519 439 551 407 551 Z N M 459 519 L 491 519 491 551 459 551 Z N M 510 519 L 542 519 542 551 510 551 Z N M 161 574 L 193 574 193 606 161 606 Z N M 212 574 L 244 574 244 606 212 606 Z N M 264 574 L 296 574 296 606 264 606 Z N M 316 574 L 348 574 348 606 316 606 Z N M 407 574 L 439 574 439 606 407 606 Z N M 459 574 L 491 574 491 606 459 606 Z N M 510 574 L 542 574 542 606 510 606 Z N M 161 629 L 193 629 193 661 161 661 Z N M 212 629 L 244 629 244 661 212 661 Z N M 264 629 L 296 629 296 661 264 661 Z N M 316 629 L 348 629 348 661 316 661 Z N M 407 629 L 439 629 439 661 407 661 Z N M 459 629 L 491 629 491 661 459 661 Z N M 510 629 L 542 629 542 661 510 661 Z N M 161 684 L 193 684 193 716 161 716 Z N M 212 684 L 244 684 244 716 212 716 Z N M 264 684 L 296 684 296 716 264 716 Z N M 316 684 L 348 684 348 716 316 716 Z N M 407 684 L 439 684 439 716 407 716 Z N M 459 684 L 491 684 491 716 459 716 Z N M 510 684 L 542 684 542 716 510 716 Z N M 161 738 L 193 738 193 770 161 770 Z N M 212 738 L 244 738 244 770 212 770 Z N M 264 738 L 296 738 296 770 264 770 Z N M 316 738 L 348 738 348 770 316 770 Z N M 407 738 L 439 738 439 770 407 770 Z N M 459 738 L 491 738 491 770 459 770 Z N M 510 738 L 542 738 542 770 510 770 Z N M 161 793 L 193 793 193 825 161 825 Z N M 212 793 L 244 793 244 825 212 825 Z N M 264 793 L 296 793 296 825 264 825 Z N M 316 793 L 348 793 348 825 316 825 Z N M 407 793 L 439 793 439 825 407 825 Z N M 459 793 L 491 793 491 825 459 825 Z N M 510 793 L 542 793 542 825 510 825 Z N M 161 848 L 193 848 193 880 161 880 Z N M 212 848 L 244 848 244 880 212 880 Z N M 264 848 L 296 848 296 880 264 880 Z N M 316 848 L 348 848 348 880 316 880 Z N M 407 848 L 439 848 439 880 407 880 Z N M 459 848 L 491 848 491 880 459 880 Z N M 510 848 L 542 848 542 880 510 880 Z N M 315 455 L 406 455 406 546 315 546 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="ServerBlade" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="0.825cm" svg:x="12cm" svg:y="14cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p text:style-name="P1">Server Blade</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 206" draw:text-areas="0 207 1000 297" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 206 0 206 F Z N U 1000 103 746 72 90 270 Z N U 0 103 746 72 270 90 Z N M 500 85 L 518 103 500 121 482 103 F Z N M 23 159 L 317 159 317 187 23 187 F Z N M 859 162 L 977 162 977 190 859 190 F Z N M 0 0 C 50 50 950 50 1000 0 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Desktop" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="4cm" svg:x="12cm" svg:y="18cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<draw:glue-point draw:id="5" svg:x="-5cm" svg:y="3.29cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="6" svg:x="5cm" svg:y="3.29cm" draw:escape-direction="right"/>
+<text:p text:style-name="P1">Desktop</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:text-areas="0 1000 1000 1091" draw:type="NonPrimitive" draw:enhanced-path="M 0 1000 L 1000 1000 1000 658 0 658 F Z N M 128 721 L 128 689 33 689 33 721 Z N M 843 968 L 843 689 516 689 516 968 F Z N M 843 875 L 516 875 N M 843 782 L 516 782 N M 825 829 L 533 829 N M 796 860 L 796 798 703 798 703 860 F Z N M 780 743 L 780 728 578 728 578 743 Z N M 921 720 L 921 689 890 689 890 720 Z F N M 967 720 L 967 710 936 710 936 720 Z N M 967 700 L 967 689 936 689 936 700 Z N M 780 658 L 780 610 220 610 220 658 Z F N M 890 610 L 890 0 110 0 110 610 Z F N M 890 576 L 110 576 N M 500 576 L 500 610 N M 250 576 L 250 610 N M 850 553 L 850 541 815 541 815 553 Z N M 848 499 L 848 42 152 42 152 499 Z F N"/>
+</draw:custom-shape>
+</draw:page>
+<draw:page draw:name="page2" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+<draw:custom-shape draw:name="Antenna" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="1.37cm" svg:height="4cm" svg:x="1cm" svg:y="1cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<draw:glue-point draw:id="5" svg:x="-5cm" svg:y="4.15cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="6" svg:x="5cm" svg:y="4.15cm" draw:escape-direction="right"/>
+<text:p text:style-name="P1">Antenna</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 342 1000" draw:text-areas="0 1000 342 1091" draw:type="NonPrimitive" draw:enhanced-path="M 0 915 L 169 998 339 915 F N M 14 839 L 169 915 325 839 F N M 28 763 L 169 832 311 763 F N M 42 687 L 169 748 297 687 F N M 57 611 L 169 665 282 611 F N M 71 535 L 169 582 268 535 F N M 85 459 L 169 498 254 459 F N M 99 383 L 169 415 240 383 F N M 113 308 L 169 332 226 308 F N M 127 232 L 169 248 212 232 F N M 0 915 L 169 998 339 915 169 0 F Z N M 169 998 L 169 0 F N M 0 915 L 169 832 339 915 F N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="CellPhone" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="1.46cm" svg:height="4cm" svg:x="1cm" svg:y="6cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="-2.105cm"/>
+<draw:glue-point draw:id="5" svg:x="3.99cm" svg:y="-5cm"/>
+<text:p text:style-name="P1">Cell Phone</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 365 1000" draw:text-areas="0 1000 366 1091" draw:type="NonPrimitive" draw:enhanced-path="M 331 1000 X 362 970 L 365 365 365 199 C 315 99 50 99 0 199 L 0 365 3 970 Y 34 1000 F Z N M 344 175 L 344 0 313 0 313 156 F N M 274 518 X 305 487 L 305 359 Y 274 329 L 91 329 X 61 359 L 61 487 Y 91 518 F Z N U 183 230 52 30 0 360 F N M 115 791 X 122 785 L 122 767 Y 115 761 L 52 761 X 46 767 L 46 785 Y 52 791 Z N M 214 791 X 221 785 L 221 767 Y 214 761 L 151 761 X 145 767 L 145 785 Y 151 791 Z N M 313 791 X 320 785 L 320 767 Y 313 761 L 250 761 X 244 767 L 244 785 Y 250 791 Z N M 115 849 X 122 843 L 122 825 Y 115 819 L 52 819 X 46 825 L 46 843 Y 52 849 Z N M 214 849 X 221 843 L 221 825 Y 214 819 L 151 819 X 145 825 L 145 843 Y 151 849 Z N M 313 849 X 320 843 L 320 825 Y 313 819 L 250 819 X 244 825 L 244 843 Y 250 849 Z N M 115 913 X 122 907 L 122 889 Y 115 883 L 52 883 X 46 889 L 46 907 Y 52 913 Z N M 214 913 X 221 907 L 221 889 Y 214 883 L 151 883 X 145 889 L 145 907 Y 151 913 Z N M 313 913 X 320 907 L 320 889 Y 313 883 L 250 883 X 244 889 L 244 907 Y 250 913 Z N M 115 974 X 122 968 L 122 950 Y 115 944 L 52 944 X 46 950 L 46 968 Y 52 974 Z N M 214 974 X 221 968 L 221 950 Y 214 944 L 151 944 X 145 950 L 145 968 Y 151 974 Z N M 313 974 X 320 968 L 320 950 Y 313 944 L 250 944 X 244 950 L 244 968 Y 250 974 Z N M 87 639 X 94 633 L 94 615 Y 87 609 L 24 609 X 18 615 L 18 633 Y 24 639 Z N M 214 639 X 221 633 L 221 615 Y 214 609 L 151 609 X 145 615 L 145 633 Y 151 639 Z N M 341 639 X 348 633 L 348 615 Y 341 609 L 278 609 X 272 615 L 272 633 Y 278 639 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Router" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="1cm" svg:y="12cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p text:style-name="P1">Router</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:text-areas="0 1000 1000 1091" draw:type="NonPrimitive" draw:enhanced-path="T 500 500 1000 1000 0 360 F Z N M 448 961 L 552 961 552 682 600 682 500 591 400 682 448 682 Z N M 448 39 L 552 39 552 318 600 318 500 409 400 318 448 318 Z N M 409 448 L 409 552 130 552 130 600 39 500 130 400 130 448 Z N M 591 448 L 591 552 870 552 870 600 961 500 870 400 870 448 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="RackMount" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="3cm" svg:x="1cm" svg:y="16cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p text:style-name="P1">Rack Mount Device</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 750" draw:text-areas="0 750 1000 841" draw:type="NonPrimitive" draw:enhanced-path="M 1000 750 L 1000 0 0 0 0 750 F Z N M 969 719 L 969 606 31 606 31 719 F Z N M 63 631 L 63 694 188 694 188 631 F Z N M 250 631 L 250 694 375 694 375 631 F Z N M 438 631 L 438 694 563 694 563 631 F Z N M 625 631 L 625 694 750 694 750 631 F Z N M 813 631 L 813 694 938 694 938 631 F Z N M 31 31 L 31 531 94 531 94 31 F Z N M 156 31 L 156 531 219 531 219 31 F Z N M 281 31 L 281 531 344 531 344 31 F Z N M 406 31 L 406 531 469 531 469 31 F Z N M 531 31 L 531 531 594 531 594 31 F Z N M 656 31 L 656 531 719 531 719 31 F Z N M 781 31 L 781 531 844 531 844 31 F Z N M 906 31 L 906 531 969 531 969 31 F Z N T 125 47 32 32 0 360 F Z N T 250 47 32 32 0 360 F Z N T 375 47 32 32 0 360 F Z N T 500 47 32 32 0 360 F Z N T 625 47 32 32 0 360 F Z N T 750 47 32 32 0 360 F Z N T 875 47 32 32 0 360 F Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="IPPhone" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="3.32cm" svg:x="1cm" svg:y="20cm">
+<draw:glue-point draw:id="4" svg:x="0.85cm" svg:y="-1.486cm"/>
+<draw:glue-point draw:id="5" svg:x="0.85cm" svg:y="-4.06cm"/>
+<text:p text:style-name="P1">IP Phone</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 830" draw:text-areas="0 831 1000 922" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 260 0 260 260 325 260 325 78 923 78 923 260 1000 260 1000 830 0 830 F Z N M 26 33 L 234 33 234 161 C 194 181 194 648 234 668 L 234 797 26 797 26 668 C 66 648 66 181 26 161 F Z N M 390 150 L 780 150 780 433 390 433 F Z N T 832 209 26 26 0 360 Z N T 832 268 26 26 0 360 Z N T 832 327 26 26 0 360 Z N T 832 387 26 26 0 360 Z N T 423 568 58 58 0 360 Z N T 531 568 58 58 0 360 Z N T 631 568 58 58 0 360 Z N T 423 633 58 58 0 360 Z N T 531 633 58 58 0 360 Z N T 631 633 58 58 0 360 Z N T 423 698 58 58 0 360 Z N T 531 698 58 58 0 360 Z N T 631 698 58 58 0 360 Z N T 423 763 58 58 0 360 Z N T 531 763 58 58 0 360 Z N T 631 763 58 58 0 360 Z N T 780 601 94 44 0 360 Z N T 897 601 94 44 0 360 Z N T 780 731 94 44 0 360 Z N T 897 731 94 44 0 360 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Laptop" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="4cm" svg:x="7cm" svg:y="1cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0.8cm"/>
+<draw:glue-point draw:id="5" svg:x="-4.12cm" svg:y="-2.06cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="6" svg:x="-4.56cm" svg:y="2.465cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="7" svg:x="4.13cm" svg:y="-2.06cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="8" svg:x="4.565cm" svg:y="2.465cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="9" svg:x="0cm" svg:y="2.465cm"/>
+<text:p text:style-name="P1">Laptop</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:text-areas="0 1000 1000 1092" draw:type="NonPrimitive" draw:enhanced-path="M 0 1000 L 1000 1000 1000 913 913 580 913 0 88 0 88 580 0 913 F Z N M 88 580 L 913 580 F N M 1000 913 L 0 913 F N M 173 88 L 173 500 750 500 750 88 Z N M 788 88 L 788 149 851 149 851 88 Z N M 788 439 L 788 500 851 500 851 439 Z N M 89 708 L 48 870 953 870 911 708 Z N M 104 648 L 94 685 906 685 896 648 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="WAP" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="1.92cm" svg:height="4cm" svg:x="7cm" svg:y="6cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="-3.48cm"/>
+<draw:glue-point draw:id="5" svg:x="0cm" svg:y="1.925cm"/>
+<text:p text:style-name="P1">Wireless Access Point</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 479 1000" draw:text-areas="0 1000 479 1092" draw:type="NonPrimitive" draw:enhanced-path="M 123 462 L 42 912 F N U 49 915 16 16 157 270 F N M 49 923 L 430 923 F N U 430 915 16 16 270 23 F N M 437 912 L 356 462 F N U 239 462 232 112 0 360 F Z N M 239 462 L 239 187 F N U 239 152 82 68 0 360 F Z N U 239 152 402 334 130 230 F N U 239 152 402 334 310 50 F N U 239 152 238 198 130 230 F N U 239 152 238 198 310 50 F N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="FireWall" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="2.63cm" svg:height="2.63cm" svg:x="7cm" svg:y="12cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p text:style-name="P1">Firewall</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:text-areas="0 1000 1000 1092" draw:type="NonPrimitive" draw:enhanced-path="M 50 0 L 950 0 X 1000 50 L 1000 950 Y 950 1000 L 50 1000 X 0 950 L 0 50 Y 50 0 F Z N M 0 143 L 1000 143 M 0 286 L 1000 286 M 0 429 L 1000 429 M 0 571 L 1000 571 M 0 714 L 1000 714 M 0 857 L 1000 857 M 167 143 L 167 286 M 500 143 L 500 286 M 833 143 L 833 286 M 333 286 L 333 429 M 667 286 L 667 429 M 167 429 L 167 571 M 500 429 L 500 571 M 833 429 L 833 571 M 333 571 L 333 714 M 667 571 L 667 714 M 167 714 L 167 857 M 500 714 L 500 857 M 833 714 L 833 857 M 333 857 L 333 1000 M 667 857 L 667 1000 M 333 0 L 333 143 M 667 0 L 667 143"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="DotMatrixPrinter" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="3.11cm" svg:x="7cm" svg:y="16cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0.32cm"/>
+<draw:glue-point draw:id="5" svg:x="-4.7cm" svg:y="0cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="6" svg:x="4.7cm" svg:y="0cm" draw:escape-direction="right"/>
+<text:p text:style-name="P1">Dot Matrix Printer</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 788" draw:text-areas="0 788 1000 980" draw:type="NonPrimitive" draw:enhanced-path="M 30 778 L 970 778 970 305 F N M 970 335 L 1000 335 1000 188 917 188 917 56 791 56 F N M 209 56 L 83 56 83 188 0 188 0 335 30 335 F N M 30 305 L 30 778 F N M 917 188 L 791 188 791 293 209 293 209 188 83 188 83 414 917 414 Z N M 209 293 L 209 0 235 0 235 293 F N M 791 293 L 791 0 765 0 765 293 F N M 235 0 L 765 0 F N T 222 9 4 4 0 360 Z N T 222 38 4 4 0 360 Z N T 222 66 4 4 0 360 Z N T 222 94 4 4 0 360 Z N T 222 122 4 4 0 360 Z N T 222 150 4 4 0 360 Z N T 222 179 4 4 0 360 Z N T 222 207 4 4 0 360 Z N T 222 235 4 4 0 360 Z N T 222 263 4 4 0 360 Z N T 778 9 4 4 0 360 Z N T 778 38 4 4 0 360 Z N T 778 66 4 4 0 360 Z N T 778 94 4 4 0 360 Z N T 778 122 4 4 0 360 Z N T 778 150 4 4 0 360 Z N T 778 179 4 4 0 360 Z N T 778 207 4 4 0 360 Z N T 778 235 4 4 0 360 Z N T 778 263 4 4 0 360 Z N M 60 329 L 60 746 940 746 940 329 930 329 930 737 70 737 70 329 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="LargeSatelliteAntenna" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="5.08cm" svg:x="7cm" svg:y="20cm">
+<draw:glue-point draw:id="4" svg:x="1.925cm" svg:y="-2.479cm"/>
+<draw:glue-point draw:id="5" svg:x="-2.455cm" svg:y="5.001cm" draw:escape-direction="down"/>
+<text:p text:style-name="P1">Large Satellite Antenna</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 2000 2539" draw:text-areas="0 2539 2000 2639" draw:type="NonPrimitive" draw:enhanced-path="M 0 2539 L 113 2150 316 2150 423 1425 440 1382 276 1219 W 261 1130 365 1234 276 1219 276 1145 M 276 1145 L 381 1041 217 877 285 350 197 116 C 155 2 251 -3 282 28 L 1997 1743 C 2028 1774 2023 1870 1910 1828 L 1676 1740 1148 1808 984 1645 880 1749 W 792 1661 895 1764 880 1740 807 1749 L 702 1645 756 2150 959 2150 1018 2539 0 2539 F N M 1250 685 L 1340 595 1430 685 1340 776 F Z N M 849 595 L 1340 595 M 990 736 L 1250 685 M 1289 1035 L 1340 776 M 1430 1176 L 1430 685"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Satellite" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="2.67cm" svg:x="15cm" svg:y="1cm">
+<text:p text:style-name="P1">Satellite</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 3340" draw:text-areas="0 3340 5000 3440" draw:type="NonPrimitive" draw:enhanced-path="M 0 1576 L 630 1324 2227 1324 1597 1576 Z N M 3403 1324 L 5000 1324 4370 1576 2773 1576 Z N U 2500 2332 1366 546 0 359 F N M 1817 2332 L 1817 1487 M 1817 1324 L 1817 714 M 3183 2332 L 3183 1576 M 3183 1412 L 3183 714 U 2500 714 1366 546 0 180 F N U 2500 1261 1366 546 0 180 F N U 2500 1807 1366 546 0 180 F N M 2353 448 L 2353 126 M 2647 448 L 2647 126 U 2500 126 294 294 0 180 F N U 2500 2815 672 274 0 360 F N U 2500 3277 126 126 0 360 F N M 2437 2815 L 2437 3277 M 2563 2815 L 2563 3277 M 2353 2332 C 2353 2500 2164 2668 2164 2815 F N M 2647 2332 C 2647 2500 2836 2668 2836 2815 F N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="SmallSatelliteDish" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="2.5cm" svg:height="2.58cm" svg:x="15cm" svg:y="7.42cm">
+<draw:glue-point draw:id="4" svg:x="-4.758cm" svg:y="-0.969cm"/>
+<draw:glue-point draw:id="5" svg:x="1.818cm" svg:y="-0.664cm"/>
+<text:p text:style-name="P1">Small Satellite Dish</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5170" draw:text-areas="0 5170 5000 5270" draw:type="NonPrimitive" draw:enhanced-path="M 3740 0 C 4548 808 3885 5291 3078 4483 2270 3675 2932 -808 3740 0 Z N M 3078 4483 L 121 3013 121 2205 F N U 121 2084 242 242 0 360 F N M 4418 5170 L 3635 4237 F N M 5000 5170 L 4039 2671 F N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Scanner" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="2.56cm" svg:x="15cm" svg:y="12.07cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="2.815cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="5" svg:x="-5cm" svg:y="3.71cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="6" svg:x="5cm" svg:y="3.71cm" draw:escape-direction="right"/>
+<text:p text:style-name="P1">Scanner</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 2000 1280" draw:text-areas="0 1280 2000 1380" draw:type="NonPrimitive" draw:enhanced-path="M 100 1280 L 329 1280 329 1229 100 1229 F Z N M 1900 1280 L 1671 1280 1671 1229 1900 1229 F Z N M 0 1229 L 2000 1229 2000 1000 0 1000 F Z N M 1732 0 L 0 1000 164 1000 1773 71 F Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Ethernet" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="2.00cm" svg:height="1.66cm" svg:x="15cm" svg:y="16.00cm">
+<text:p text:style-name="P1">Ethernet</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 2000 1657" draw:text-areas="0 1737 2000 1937" draw:type="NonPrimitive" draw:enhanced-path="
+
+M 0 829
+L 2000 829 F N
+
+
+
+M 813 0
+L 1187 0
+L 1187 554
+L 813 554 F Z N
+
+M 813 1104
+L 439 1104
+L 439 1657
+L 813 1657 F Z N
+
+M 1187 1104
+L 1561 1104
+L 1561 1657
+L 1187 1657 F Z N
+
+M 1000 829
+L 1000 554 F N
+
+
+M 626 829
+L 626 1104 F N
+
+
+M 1374 829
+L 1374 1104 F N
+
+
+"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Smartphone" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="1.1cm" svg:height="1.95cm" svg:x="14cm" svg:y="20cm">
+<text:p text:style-name="P1">Smartphone</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 2000 3553" draw:text-areas="0 3653 2000 3853" draw:type="NonPrimitive" draw:enhanced-path="M 392 0 L 1608 0 U 1608 392 785 785 0 90 F M 2000 392 L 2000 3161 U 1608 3161 785 785 270 0 F M 1608 3553 L 392 3553 U 392 3161 785 785 180 270 F M 0 3161 L 0 392 U 392 392 785 785 90 180 F  M 807 256 L 1193 256 M 300 425 L 1700 425 L 1700 2872 L 300 2872 Z U 1000 3213 349 349 0 360 F Z "/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Tablet" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="3.0cm" svg:height="2.18cm" svg:x="14cm" svg:y="24cm">
+<text:p text:style-name="P1">Tablet</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 3000 2178" draw:text-areas="0 2378 3000 2578" draw:type="NonPrimitive" draw:enhanced-path="M 281 0 L 2719 0 U 2719 281 563 563 0 90 F M 3000 281 L 3000 1897 U 2719 1897 563 563 270 0 F M 2719 2178 L 281 2178 U 281 1897 563 563 180 270 F M 0 1897 L 0 281 U 281 281 563 563 90 180 F N M 293 129 L 2477 129 U 2477 293 326 326 0 90 F M 2640 293 L 2640 1886 U 2477 1886 326 326 270 0 F M 2477 2049 L 293 2049 U 293 1886 326 326 180 270 F M 129 1886 L 129 293 U 293 293 326 326 90 180 F U 2820 1089 225 225 0 360 F "/>
+</draw:custom-shape>
+</draw:page>
+<draw:page draw:name="Racks" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+<draw:custom-shape draw:name="Rack 38U" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="13.49cm" svg:x="1cm" svg:y="1cm">
+<text:p text:style-name="P1">Rack 38U</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 3374"  draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:text-areas="0 3374 1000 3474" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 69 0 69 Z M 928 69 L 1000 69 1000 3230 928 3230 Z M 1000 3230 L 1000 3374 0 3374 0 3230 Z M 0 69 L 72 69 72 3230 0 3230 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Rack 42U" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="14.93cm" svg:x="6cm" svg:y="1cm">
+<text:p text:style-name="P1">Rack 42U</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 3732" draw:text-areas="0 3832 1000 3832" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 69 0 69 Z M 928 69 L 1000 69 1000 3588 928 3588 Z M 1000 3588 L 1000 3732 0 3732 0 3588 Z M 0 69 L 72 69 72 3588 0 3588 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Rack 46U" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="16.34cm" svg:x="12cm" svg:y="1cm">
+<text:p text:style-name="P1">Rack 46U</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 4085" draw:text-areas="0 4185 1000 4185" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 69 0 69 Z M 928 69 L 1000 69 1000 3942 928 3942 Z M 1000 3942 L 1000 4085 0 4085 0 3942 Z M 0 69 L 72 69 72 3942 0 3942 Z N"/>
+</draw:custom-shape>
+</draw:page>
+</office:drawing>
+</office:body>
+</office:document-content>

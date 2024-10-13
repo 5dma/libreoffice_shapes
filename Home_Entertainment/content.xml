@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" office:version="1.0"><office:scripts/><office:automatic-styles><style:style style:name="dp1" style:family="drawing-page"/><style:style style:name="P1" style:family="paragraph"><style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/></style:style>
+
+<style:style style:name="P2" style:family="paragraph"><style:paragraph-properties fo:text-align="center"/>
+
+
+</style:style><text:list-style style:name="L1"><text:list-level-style-bullet text:level="1" text:bullet-char="?"><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="2" text:bullet-char="?"><style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="3" text:bullet-char="?"><style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="4" text:bullet-char="?"><style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="5" text:bullet-char="?"><style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="6" text:bullet-char="?"><style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="7" text:bullet-char="?"><style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="8" text:bullet-char="?"><style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="9" text:bullet-char="?"><style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="10" text:bullet-char="?"><style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet></text:list-style></office:automatic-styles><office:body><office:drawing><draw:page draw:name="page1" draw:style-name="dp1" draw:master-page-name="Default"><office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+
+<draw:custom-shape draw:name="DVDPlayer" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="0.28cm" svg:x="1cm" svg:y="1cm"><text:p text:style-name="P1">DVD Player</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 71" draw:text-areas="0 72 1000 163" draw:type="NonPrimitive" draw:enhanced-path="M 1000 71 L 1000 0 0 0 0 71 F Z N
+M 661 35 L 661 18 339 18 339 35 Z N
+M 59 60 L 59 46 22 46 22 60 Z N
+T 78 53 12 12 0 360 Z N
+M 1000 15 L 0 15 N
+M 1000 34 L 846 34 838 53 162 53 154 34 0 34 F N
+"/>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="VCR" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1.12cm" svg:x="1cm" svg:y="3cm"><text:p text:style-name="P1">VCR</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 281" draw:text-areas="0 282 1000 373" draw:type="NonPrimitive" draw:enhanced-path="M 1000 281 L 1000 0 0 0 0 281 F Z N
+M 753 138 L 753 54 247 54 247 138 Z N
+T 58 200 24 24 0 360 Z N
+M 132 182 L 193 182 193 219 132 219 Z N
+M 745 182 L 807 182 807 219 745 219 Z N
+M 830 182 L 892 182 892 219 830 219 Z N
+M 915 182 L 976 182 976 219 915 219 Z N
+M 357 170
+L 643 170
+X 655 181
+L 655 222
+Y 643 233
+L 357 233
+X 345 222
+L 345 181
+Y 357 170 F Z N
+"/>
+<draw:glue-point draw:id="6" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="RemoteControl" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="1.55cm" svg:height="4cm" svg:x="1cm" svg:y="5cm"><text:p text:style-name="P1">Remote Control</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 386 1000" draw:text-areas="0 1001 387 1091" draw:type="NonPrimitive" draw:enhanced-path="T 193 824 824 824 80 100 F N 
+T 61 83 71 71 99 180 F 
+L 0 879
+Y 71 1000
+L 315 1000
+X 386 929 F
+L 396 83
+T 325 83 71 71 0 81 F N Z
+T 82 473 33 33 0 360 Z N
+T 193 473 33 33 0 360 Z N
+T 304 473 33 33 0 360 Z N
+
+T 81 330 33 33 0 360 Z N
+T 156 330 33 33 0 360 Z N
+T 230 330 33 33 0 360 Z N
+T 304 330 33 33 0 360 Z N
+
+T 81 616 33 33 0 360 Z N
+T 156 616 33 33 0 360 Z N
+T 230 616 33 33 0 360 Z N
+T 304 616 33 33 0 360 Z N
+"/>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0.445cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+
+<draw:custom-shape draw:name="FloorSpeaker" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="1.59cm" svg:height="4cm" svg:x="1cm" svg:y="11cm"><text:p text:style-name="P1">Floor Speaker</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 397 1000" draw:text-areas="0 1001 398 1091" draw:type="NonPrimitive" draw:enhanced-path="
+M 397 1000
+L 397 0
+L 0 0
+L 0 1000 F Z N
+T 199 581 156 156 0 360 F Z N
+T 199 581 47 47 0 360 Z N
+T 132 304 93 93 0 360 Z N
+T 136 118 65 65 0 360 Z N
+"/>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0.81cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="Receiver" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1.37cm" svg:x="1cm" svg:y="17cm"><text:p text:style-name="P1">Receiver</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 343" draw:text-areas="0 344 1000 435" draw:type="NonPrimitive" draw:enhanced-path="
+M 1000 343 L 1000 0 0 0 0 343 F Z N
+T 881 148 61 61 0 360 Z N
+T 55 271 12 12 0 360 Z N
+T 55 111 23 23 0 360 Z N
+M 245 343
+L 245 214
+L 275 177
+L 275 83
+L 725 83
+L 725 177
+L 755 214
+L 755 343 F Z N
+M 755 214 L 245 214 Z N
+M 725 177 L 275 177 Z N
+M 414 109
+L 407 148 N
+M 422 109
+L 415 148
+L 435 148
+L 442 109 F Z N
+M 450 109
+L 443 148
+L 463 148
+L 470 109 F Z N
+M 500 109
+L 493 148 N
+M 500 109
+L 520 109 N
+M 497 129
+L 517 129 N
+M 521 148
+L 528 109
+L 568 109
+L 561 148 F N
+M 548 109
+L 541 148 F N
+T 388 279 25 25 0 360 Z N
+T 612 279 25 25 0 360 Z N
+"/>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0.7cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+
+<draw:custom-shape draw:name="Amplifier" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1.1cm" svg:x="1cm" svg:y="20cm"><text:p text:style-name="P1">Amplifier</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 275" draw:text-areas="0 276 1000 367" draw:type="NonPrimitive" draw:enhanced-path="
+M 1000 275 L 1000 0 0 0 0 275 F Z N
+T 815 122 61 61 0 360 Z N
+T 650 122 45 45 0 360 Z N
+
+M 528 128
+L 528 64
+Y 532 61
+L 533 61
+X 536 64
+L 536 128 Z N
+M 536 148
+L 536 211
+Y 533 215
+L 532 215
+X 528 211
+L 528 148 Z N
+M 542 148 L 542 128 522 128 522 148 Z N
+
+M 468 128
+L 468 64
+Y 472 61
+L 473 61
+X 476 64
+L 476 128 Z N
+M 476 148
+L 476 211
+Y 473 215
+L 472 215
+X 468 211
+L 468 148 Z N
+M 484 148 L 484 128 464 128 464 148 Z N
+M 178 215 L 178 196 148 196 148 215 Z N
+T 163 97 10 10 0 360 Z N
+"/>
+<draw:glue-point draw:id="4" svg:x="0.02cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="HomeTheaterProjector" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1.128cm" svg:x="10cm" svg:y="1cm"><text:p text:style-name="P1">Home Theater Projector</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 282" draw:text-areas="0 283 1000 373" draw:type="NonPrimitive" draw:enhanced-path="
+M 1000 282 L 1000 0 0 0 0 282 F Z N
+T 753 151 118 118 0 360 F Z N
+T 753 151 94 94 0 360 F Z N
+T 753 151 42 42 0 360 Z N
+M 97 42 L 97 219 F Z N
+M 122 42 L 122 219 F Z N
+M 148 42 L 148 219 F Z N
+M 173 42 L 173 219 F Z N
+M 198 42 L 198 219 F Z N
+M 223 42 L 223 219 F Z N
+M 249 42 L 249 219 F Z N
+M 274 42 L 274 219 F Z N
+
+
+M 97 42 L 274 42 F Z N
+M 97 67 L 274 67 F Z N
+M 97 93 L 274 93 F Z N
+M 97 118 L 274 118 F Z N
+M 97 143 L 274 143 F Z N
+M 97 168 L 274 168 F Z N
+M 97 194 L 274 194 F Z N
+M 97 219 L 274 219 F Z N
+"/>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+<draw:glue-point draw:id="5" svg:x="2.53cm" svg:y="0.355cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="StereoSpeaker" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="2.98cm" svg:x="10cm" svg:y="3cm"><text:p text:style-name="P1">Stereo Speaker</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 699" draw:text-areas="0 700 1000 791" draw:type="NonPrimitive" draw:enhanced-path="
+M 1000 699 L 1000 0 0 0 0 699 F Z N
+M 942 641 L 942 58 58 58 58 641 F Z N
+M 1000 699 L 942 641 F Z N
+M 1000 0 L 942 58 F Z N
+M 0 0 L 58 58 F Z N
+M 0 699 L 58 641 F Z N
+T 500 349 270 270 0 360 F N
+T 500 349 218 218 0 360 F N
+T 500 349 73 73 0 360 Z N
+"/>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="DVR" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="0.77cm" svg:x="10cm" svg:y="8cm"><text:p text:style-name="P1">Digital Video Recorder</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 193" draw:text-areas="0 194 1000 285" draw:type="NonPrimitive" draw:enhanced-path="
+M 1000 163 L 1000 0 0 0 0 163 F Z N
+M 985 193 L 985 163 15 163 15 193 F Z N
+M 539 185 L 539 164 461 164 461 185 Z N
+M 114 35
+L 887 35
+X 900 49
+L 900 122
+Y 887 135
+L 114 135
+X 100 122
+L 100 49
+Y 114 35 Z N
+
+"/>
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="-0.596cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="SatelliteDish" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="3.3cm" svg:x="10cm" svg:y="11cm" ><text:p text:style-name="P1">Satellite Dish</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 826" draw:text-areas="0 826 1000 917" draw:type="NonPrimitive" draw:enhanced-path="
+T 498 230 500 233 0 360 F Z N
+M 500 163 L 632 305 F Z N
+M 500 163 L 368 305 F Z N
+M 500 163 L 613 204 F Z N
+M 477 463 L 477 819 L 523 819 L 523 463 Z N
+"/>
+
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="-3.026cm" draw:escape-direction="auto"/>
+<draw:glue-point draw:id="5" svg:x="-5cm" svg:y="-2.215cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="6" svg:x="5cm" svg:y="-2.215cm" draw:escape-direction="left"/>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="FlatScreenTV" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="3.22cm" svg:x="10cm" svg:y="17cm" ><text:p text:style-name="P1">Flat Screen TV</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 804" draw:text-areas="0 804 1000 895" draw:type="NonPrimitive" draw:enhanced-path="
+M 1000 714 L 1000 0 L 0 0 L 0 714 F Z N
+M 960 565 L 960 40 L 40 40 L 40 565 Z N
+M 455 714 L 455 758 L 546 758 L 546 714 F Z N
+T 500 772 304 39 99 81 F N
+"/>
+
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="-1.238cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="GameConsole" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="2.62cm" svg:x="10cm" svg:y="22cm" ><text:p text:style-name="P1">Game Console</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 656" draw:text-areas="0 656 1000 747" draw:type="NonPrimitive" draw:enhanced-path="
+M 1000 656 L 1000 0 L 0 0 L 0 656 F Z N
+M 122 157 L 122 499 L 878 499 L 878 157 F Z N
+T 230 295 50 50 0 360 Z N
+T 403 295 50 50 0 360 Z N
+T 576 295 50 50 0 360 Z N
+T 750 295 50 50 0 360 Z N
+"/>
+
+<draw:glue-point draw:id="4" svg:x="-2.7cm" svg:y="-0.503cm" draw:escape-direction="auto"/>
+<draw:glue-point draw:id="5" svg:x="-0.97cm" svg:y="-0.503cm" draw:escape-direction="auto"/>
+<draw:glue-point draw:id="6" svg:x="0.76cm" svg:y="-0.503cm" draw:escape-direction="auto"/>
+<draw:glue-point draw:id="7" svg:x="2.5cm" svg:y="-0.503cm" draw:escape-direction="auto"/>
+</draw:custom-shape>
+
+
+
+</draw:page>
+</office:drawing></office:body></office:document-content>

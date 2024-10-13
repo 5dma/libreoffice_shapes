@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" office:version="1.0">
+<office:scripts/>
+<office:automatic-styles>
+<style:style style:name="dp1" style:family="drawing-page"/>
+<style:style style:name="P1" style:family="paragraph">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
+</style:style>
+<style:style style:name="P2" style:family="paragraph">
+<style:paragraph-properties fo:text-align="center"/>
+</style:style>
+<text:list-style style:name="L1">
+<text:list-level-style-bullet text:level="1" text:bullet-char="?">
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="?">
+<style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="?">
+<style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="?">
+<style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="?">
+<style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="10" text:bullet-char="?">
+<style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+</text:list-style>
+</office:automatic-styles>
+<office:body>
+<office:drawing>
+<draw:page draw:name="page1" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+
+
+<draw:custom-shape draw:name="SCSILVDSE" draw:style-name="BlackFill" draw:text-style-name="P2" draw:layer="layout" svg:width="1.20cm" svg:height="1.15cm" svg:x="1cm" svg:y="1cm">
+<text:p text:style-name="P1">SCSI LVD SE</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 958" draw:text-areas="0 959 1000 1048" draw:type="NonPrimitive" draw:enhanced-path="M 833 358 L 475 0 0 474 475 958 833 599 F N M 475 474 L 1000 474 F N M 475 266 L 266 474 475 683 F N "/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="SCSILVD" draw:style-name="BlackFill" draw:text-style-name="P2" draw:layer="layout" svg:width="1.20cm" svg:height="1.15cm" svg:x="1cm" svg:y="3cm">
+<text:p text:style-name="P1">SCSI LVD</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 958" draw:text-areas="0 959 1000 1048" draw:type="NonPrimitive" draw:enhanced-path="M 833 358 L 475 0 0 474 475 958 833 599 F N M 475 266 L 266 474 475 683 F N "/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="SCSISE" draw:style-name="BlackFill" draw:text-style-name="P2" draw:layer="layout" svg:width="1.20cm" svg:height="1.15cm" svg:x="1cm" svg:y="5cm">
+<text:p text:style-name="P1">SCSI SE</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 958" draw:text-areas="0 959 1000 1048" draw:type="NonPrimitive" draw:enhanced-path="M 833 358 L 475 0 0 474 475 958 833 599 F N M 475 474 L 1000 474 F N"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="SCSIHVD" draw:style-name="BlackFill" draw:text-style-name="P2" draw:layer="layout" svg:width="1.32cm" svg:height="1.15cm" svg:x="1cm" svg:y="7cm">
+<text:p text:style-name="P1">SCSI HVD</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1099 958" draw:text-areas="0 959 1099 1048" draw:type="NonPrimitive" draw:enhanced-path="M 1099 358 L 741 0 266 474 741 958 1099 599 F N M 741 474 L 1266 474 F N M 474 0 L 0 474 474 958 F N "/>
+</draw:custom-shape>
+
+
+<draw:custom-shape draw:name="Ethernet" draw:style-name="BlackFill" draw:text-style-name="P2" draw:layer="layout" svg:width="1.82cm" svg:height="1.475cm" svg:x="3cm" svg:y="1cm">
+<text:p text:style-name="P1">Ethernet</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 810" draw:text-areas="0 470 1000 810" draw:type="NonPrimitive" draw:enhanced-path="M 235 0 L 0 235 235 470 F N M 765 0 L 1000 235 765 470 F N U 323 235 136 136 0 360 Z N U 500 235 136 136 0 360 Z N U 677 235 136 136 0 360 Z N"/>
+<draw:glue-point draw:id="4" draw:align="top-left" svg:x="0cm" svg:y="0cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="5" draw:align="top-left" svg:x="0cm" svg:y="0.875cm" draw:escape-direction="right"/>
+</draw:custom-shape>
+
+<draw:custom-shape draw:name="USB" draw:style-name="BlackFill" draw:text-style-name="P2" draw:layer="layout" svg:width="3.09cm" svg:height="1.35cm" svg:x="3cm" svg:y="3cm">
+<text:p text:style-name="P1">USB</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 437" draw:text-areas="0 438 1000 529" draw:type="NonPrimitive" draw:enhanced-path="M 64 218 L 889 218 F N M 889 153 L 1000 218 889 283 Z N T 64 218 128 128 0 360 Z N M 381 218 Y 644 53 F N U 644 53 106 106 0 360 Z N M 517 218 Y 786 391 F N M 831 346 L 741 346 741 437 831 437 Z N"/>
+</draw:custom-shape>
+
+
+
+</draw:page>
+</office:drawing>
+</office:body>
+</office:document-content>

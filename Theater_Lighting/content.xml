@@ -1,0 +1,1971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2">
+<office:scripts/>
+<office:font-face-decls>
+<style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-pitch="variable"/>
+<style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="roman" style:font-pitch="variable"/>
+<style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+<style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+<style:font-face style:name="Mangal" svg:font-family="Mangal" style:font-family-generic="system" style:font-pitch="variable"/>
+<style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+</office:font-face-decls>
+<office:automatic-styles>
+<style:style style:name="dp1" style:family="drawing-page"/>
+<style:style style:name="gr1" style:family="graphic" style:parent-style-name="title">
+<style:graphic-properties fo:min-height="0.51cm"/>
+</style:style>
+<style:style style:name="gr2" style:family="graphic" style:parent-style-name="title1">
+<style:graphic-properties fo:min-height="0.51cm"/>
+</style:style>
+<style:style style:name="gr3" style:family="graphic" style:parent-style-name="title1center">
+<style:graphic-properties fo:min-height="0.51cm"/>
+</style:style>
+<style:style style:name="gr4" style:family="graphic" style:parent-style-name="Callout">
+<style:graphic-properties fo:min-height="0.509cm"/>
+</style:style>
+<style:style style:name="gr5" style:family="graphic" style:parent-style-name="Callout">
+<style:graphic-properties fo:min-height="0.83cm"/>
+</style:style>
+<style:style style:name="gr6" style:family="graphic" style:parent-style-name="Callout">
+<style:graphic-properties fo:min-height="0.42cm"/>
+</style:style>
+<style:style style:name="gr7" style:family="graphic" style:parent-style-name="title1">
+<style:graphic-properties fo:min-height="1.02cm"/>
+</style:style>
+<style:style style:name="gr8" style:family="graphic" style:parent-style-name="Callout">
+<style:graphic-properties fo:min-height="0.51cm"/>
+</style:style>
+<style:style style:name="gr9" style:family="graphic" style:parent-style-name="CenterLine">
+<style:graphic-properties fo:min-height="0cm" fo:min-width="0cm"/>
+</style:style>
+<style:style style:name="P1" style:family="paragraph">
+<style:paragraph-properties fo:text-align="start"/>
+</style:style>
+<style:style style:name="P2" style:family="paragraph">
+<style:paragraph-properties fo:text-align="center"/>
+</style:style>
+<style:style style:name="P3" style:family="paragraph">
+<style:paragraph-properties fo:text-align="start"/>
+<style:text-properties style:text-underline-style="none"/>
+</style:style>
+<style:style style:name="P4" style:family="paragraph">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
+</style:style>
+<style:style style:name="T1" style:family="text">
+<style:text-properties style:text-underline-style="none"/>
+</style:style>
+<text:list-style style:name="L1">
+<text:list-level-style-bullet text:level="1" text:bullet-char="?">
+<style:list-level-properties/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="?">
+<style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="?">
+<style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="?">
+<style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="?">
+<style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="?">
+<style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="?">
+<style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="10" text:bullet-char="?">
+<style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+</text:list-style>
+</office:automatic-styles>
+<office:body>
+<office:drawing>
+<draw:page draw:name="Ellipsoidal Reflector Spotlights 1" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="6.5cm" svg:height="0.76cm" svg:x="1.7cm" svg:y="1.4cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Ellipsoidal Reflector Spotlights</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="6.5cm" svg:height="0.76cm" svg:x="2.2cm" svg:y="2.3cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">3.5&quot; Diameter Lens Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.8cm" svg:height="0.76cm" svg:x="2.6cm" svg:y="3.06cm">
+<draw:text-box>
+<text:p text:style-name="P2">
+<text:span text:style-name="T1">Radial</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.8cm" svg:height="0.76cm" svg:x="5.5cm" svg:y="3.06cm">
+<draw:text-box>
+<text:p text:style-name="P2">
+<text:span text:style-name="T1">Axial</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8.1cm" svg:height="6.71cm" svg:x="2.1cm" svg:y="2.1cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="Radial 3.5&quot;×5&quot; (48°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.3cm" svg:height="0.6cm" svg:x="2.85cm" svg:y="4.05cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 462" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="U 231 231 462 462 90 270 N M 231 0 L 487 0 520 68 892 68 912 0 1000 0 1000 462 912 462 892 394 520 394 487 462 231 462 N M 892 68 L 845 231 892 394 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Radial 3.5&quot;×6&quot; (38°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.3cm" svg:height="0.6cm" svg:x="2.85cm" svg:y="5.05cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 462" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="U 231 231 462 462 90 270 N M 231 0 L 487 0 520 68 892 68 912 0 1000 0 1000 462 912 462 892 394 520 394 487 462 231 462 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Radial 3.5&quot;×8&quot; (28°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.3cm" svg:height="0.6cm" svg:x="2.85cm" svg:y="6.05cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 462" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="U 231 231 462 462 90 270 N M 231 0 L 487 0 520 68 892 68 912 0 1000 0 1000 462 912 462 892 394 520 394 487 462 231 462 N M 892 68 L 798 394 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Radial 3.5&quot;×10&quot; (23°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.3cm" svg:height="0.6cm" svg:x="2.85cm" svg:y="7.05cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 462" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="U 231 231 462 462 90 270 N M 231 0 L 487 0 520 68 892 68 912 0 1000 0 1000 462 912 462 892 394 520 394 487 462 231 462 N M 892 68 L 798 394 N M 892 394 L 798 68 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Radial 3.5&quot;×12&quot; (18°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.3cm" svg:height="0.6cm" svg:x="2.85cm" svg:y="8.05cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 462" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="U 231 231 462 462 90 270 N M 231 0 L 487 0 520 68 892 68 912 0 1000 0 1000 462 912 462 892 394 520 394 487 462 231 462 N M 1000 154 L 797 154 N M 1000 308 L 797 308 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 3.5&quot;×5&quot; (48°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.41cm" svg:height="0.6cm" svg:x="5.7cm" svg:y="4.05cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 462" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 118 L 125 118 W 125 0 380 236 125 118 252 0 L 540 0 580 63 899 63 933 0 1000 0 1000 427 933 427 899 364 580 364 540 427 252 427 W 125 191 380 427 252 427 125 309 L 0 309 Z N M 899 63 L 815 213 899 364 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 3.5&quot;×6&quot; (38°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.41cm" svg:height="0.6cm" svg:x="5.7cm" svg:y="5.05cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 462" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 118 L 125 118 W 125 0 380 236 125 118 252 0 L 540 0 580 63 899 63 933 0 1000 0 1000 427 933 427 899 364 580 364 540 427 252 427 W 125 191 380 427 252 427 125 309 L 0 309 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 3.5&quot;×8&quot; (28°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.41cm" svg:height="0.6cm" svg:x="5.7cm" svg:y="6.05cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 462" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 118 L 125 118 W 125 0 380 236 125 118 252 0 L 540 0 580 63 899 63 933 0 1000 0 1000 427 933 427 899 364 580 364 540 427 252 427 W 125 191 380 427 252 427 125 309 L 0 309 Z N M 899 63 L 732 364 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 3.5&quot;×10&quot; (23°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.41cm" svg:height="0.6cm" svg:x="5.7cm" svg:y="7.05cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 462" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 118 L 125 118 W 125 0 380 236 125 118 252 0 L 540 0 580 63 899 63 933 0 1000 0 1000 427 933 427 899 364 580 364 540 427 252 427 W 125 191 380 427 252 427 125 309 L 0 309 Z N M 899 63 L 732 364 M 899 363 L 732 63 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 3.5&quot;×12&quot; (18°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.41cm" svg:height="0.6cm" svg:x="5.7cm" svg:y="8.05cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 462" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 118 L 125 118 W 125 0 380 236 125 118 252 0 L 540 0 580 63 899 63 933 0 1000 0 1000 427 933 427 899 364 580 364 540 427 252 427 W 125 191 380 427 252 427 125 309 L 0 309 Z N M 1000 142 L 797 142 N M 1000 285 L 797 285 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="2.6cm" svg:height="0.759cm" svg:x="7.4cm" svg:y="4.05cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">3.5&quot;×5&quot; (48°)</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="2.6cm" svg:height="0.759cm" svg:x="7.4cm" svg:y="5.05cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">3.5&quot;×6&quot; (38°)</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="2.6cm" svg:height="0.759cm" svg:x="7.4cm" svg:y="6.05cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">3.5&quot;×8&quot; (28°)</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="2.6cm" svg:height="0.759cm" svg:x="7.4cm" svg:y="7.05cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">3.5&quot;×10&quot; (23°)</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="2.6cm" svg:height="0.759cm" svg:x="7.4cm" svg:y="8.05cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">3.5&quot;×12&quot; (18°)</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="7.4cm" svg:height="0.76cm" svg:x="2.2cm" svg:y="9.51cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">4.5&quot; Diameter Lens Box Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8.1cm" svg:height="2.97cm" svg:x="2.1cm" svg:y="9.41cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="4.5&quot; Lens Box Shape 50°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.8cm" svg:height="0.74cm" svg:x="2.6cm" svg:y="10.5cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 413" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 64 40 L 927 40 967 0 1000 0 1000 413 967 413 927 373 64 373 X 0 309 L 0 104 Y 64 40 N M 927 40 L 760 207 927 373 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="4.5&quot; Lens Box Shape 40°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.8cm" svg:height="0.74cm" svg:x="2.6cm" svg:y="11.54cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 413" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 64 40 L 927 40 967 0 1000 0 1000 413 967 413 927 373 64 373 X 0 309 L 0 104 Y 64 40 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="4.5&quot; Lens Box Shape 30°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.8cm" svg:height="0.74cm" svg:x="5.51cm" svg:y="10.5cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 413" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 64 40 L 927 40 967 0 1000 0 1000 413 967 413 927 373 64 373 X 0 309 L 0 104 Y 64 40 N M 927 40 L 594 373 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="4.5&quot; Lens Box Shape Variable Focus" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.8cm" svg:height="0.74cm" svg:x="5.51cm" svg:y="11.54cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 413" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 64 40 L 927 40 967 0 1000 0 1000 413 967 413 927 373 64 373 X 0 309 L 0 104 Y 64 40 N M 839 186 L 839 156 895 156 839 257 895 257 895 227 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.13cm" svg:height="0.759cm" svg:x="4.4cm" svg:y="10.49cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">50°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.13cm" svg:height="0.759cm" svg:x="4.4cm" svg:y="11.53cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">40°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.13cm" svg:height="0.759cm" svg:x="7.4cm" svg:y="10.49cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">30°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.9cm" svg:height="0.759cm" svg:x="7.4cm" svg:y="11.53cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Variable</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="6cm" svg:height="0.76cm" svg:x="2.2cm" svg:y="13.28cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">4.5&quot; Diameter Lens Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8.1cm" svg:height="2.46cm" svg:x="2.1cm" svg:y="13.18cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="Radial 4.5&quot;×5&quot; (50°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.55cm" svg:height="0.93cm" svg:x="2.6cm" svg:y="14.4cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 600" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="U 299 299 600 600 90 270 N M 299 0 L 478 0 539 86 893 86 935 0 1000 0 1000 599 935 599 893 513 539 513 478 599 299 599 N M 893 86 L 790 299 893 513 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 4.5&quot;×5&quot; (50°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.789cm" svg:height="0.928cm" svg:x="5.21cm" svg:y="14.4cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 2593" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="M 0 535 L 1011 535 W 764 0 3363 2599 1011 535 1968 0 L 2786 0 3008 325 4525 325 4699 0 5000 0 5000 2593 4699 2593 4525 2268 3008 2268 2786 2593 1968 2593 W 764 0 3363 2599 1968 2593 1011 2058 L 0 2058 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="2.9cm" svg:height="0.759cm" svg:x="7.4cm" svg:y="14.48cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">4.5&quot;×6.5&quot; or 50°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="7.4cm" svg:height="0.76cm" svg:x="2.2cm" svg:y="16.3cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">6&quot; Diameter Lens Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8.1cm" svg:height="5.95cm" svg:x="2.1cm" svg:y="16.2cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="Radial 6&quot;×9&quot; (40°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.55cm" svg:height="0.93cm" svg:x="2.6cm" svg:y="17.3cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 600" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="U 299 299 600 600 90 270 N M 299 0 L 478 0 539 86 893 86 935 0 1000 0 1000 599 935 599 893 513 539 513 478 599 299 599 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Radial 6&quot;×12&quot; (30°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.55cm" svg:height="0.93cm" svg:x="2.6cm" svg:y="18.53cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 600" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="U 299 299 600 600 90 270 N M 299 0 L 478 0 539 86 893 86 935 0 1000 0 1000 599 935 599 893 513 539 513 478 599 299 599 N M 893 86 L 666 513 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Radial 6&quot;×16&quot; (20°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.9cm" svg:height="0.93cm" svg:x="2.6cm" svg:y="19.76cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 600" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="U 238 300 600 600 90 270 N M 238 0 L 414 0 467 94 919 94 964 0 1000 0 1000 600 964 600 919 506 467 506 414 600 238 600 N M 919 94 L 693 506 M 919 506 L 693 94 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Radial 6&quot;×22&quot; (12°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.69cm" svg:height="0.93cm" svg:x="2.6cm" svg:y="20.99cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 346" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="U 173 173 346 346 90 270 N M 173 0 L 301 0 340 54 938 54 967 0 1000 0 1000 346 967 346 938 292 340 292 301 346 173 346 N M 843 115 L 1000 115 M 843 231 L 1000 231 N F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 6&quot;×9&quot; (40°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.82cm" svg:height="0.93cm" svg:x="5.5cm" svg:y="17.3cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 2561" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="M 0 516 L 968 516 W 764 0 2815 2561 968 516 1790 0 L 2745 0 3045 344 4529 344 4752 0 5000 0 5000 2561 4752 2561 4529 2217 3045 2217 2745 2561 1790 2561 W 764 0 2815 2561 1790 2561 968 2045 L 0 2045 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 6&quot;×12&quot; (30°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.82cm" svg:height="0.93cm" svg:x="5.5cm" svg:y="18.53cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 2561" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="M 0 516 L 968 516 W 764 0 2815 2561 968 516 1790 0 L 2745 0 3045 344 4529 344 4752 0 5000 0 5000 2561 4752 2561 4529 2217 3045 2217 2745 2561 1790 2561 W 764 0 2815 2561 1790 2561 968 2045 L 0 2045 Z N M 4529 344 L 3312 2217 N M 3312 344 L 4529 2217 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 6&quot;×16&quot; (20°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.2cm" svg:height="0.93cm" svg:x="5.5cm" svg:y="19.76cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 2118" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="M 0 469 L 827 469 W 674 0 2487 2118 827 469 1581 0 L 2308 0 2518 285 4557 285 4742 0 5000 0 5000 2118 4742 2118 4557 1834 2518 1834 2308 2118 1581 2118 W 674 0 2487 2118 1581 2118 827 1649 M 827 1649 L 0 1649 0 469 N F M 4557 285 L 3335 1834 N M 4557 1834 L 3335 285 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 6&quot;×22&quot; (12°)" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.92cm" svg:height="0.93cm" svg:x="5.5cm" svg:y="20.99cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1590" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="M 0 358 L 648 358 W 539 0 1876 1590 648 358 1208 0 L 1763 0 1924 217 4698 217 4831 0 5000 0 5000 1590 4831 1590 4698 1373 1924 1373 1763 1590 1208 1590 W 539 0 1876 1590 1208 1590 648 1232 L 0 1232 0 358 Z N M 4279 530 L 5000 530 M 4279 1060 L 5000 1060 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr5" draw:layer="layout" svg:width="1.46cm" svg:height="1.08cm" svg:x="8.7cm" svg:y="17.23cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">6&quot;×9&quot; or 40°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr5" draw:layer="layout" svg:width="1.46cm" svg:height="1.08cm" svg:x="8.7cm" svg:y="18.46cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">6&quot;×12&quot; or 30°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr5" draw:layer="layout" svg:width="1.46cm" svg:height="1.08cm" svg:x="8.7cm" svg:y="19.69cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">6&quot;×16&quot; or 20°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr5" draw:layer="layout" svg:width="1.46cm" svg:height="1.08cm" svg:x="8.7cm" svg:y="20.92cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">6&quot;×22&quot; or 12°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="7.4cm" svg:height="0.76cm" svg:x="2.2cm" svg:y="22.55cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">6&quot; Diameter Lens Box Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8.1cm" svg:height="4.57cm" svg:x="2.1cm" svg:y="22.45cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="6&quot; Lens Box Shape 50°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.61cm" svg:height="0.87cm" svg:x="2.6cm" svg:y="23.51cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 332" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 53 28 L 935 28 962 0 1000 0 1000 332 962 332 935 304 53 304 X 0 251 L 0 81 Y 53 28 Z N M 935 28 L 796 166 935 304 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="6&quot; Lens Box Shape 40°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.61cm" svg:height="0.87cm" svg:x="2.6cm" svg:y="24.68cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 332" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 53 28 L 935 28 962 0 1000 0 1000 332 962 332 935 304 53 304 X 0 251 L 0 81 Y 53 28 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="6&quot; Lens Box Shape 30°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.61cm" svg:height="0.87cm" svg:x="2.6cm" svg:y="25.85cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 332" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 53 28 L 935 28 962 0 1000 0 1000 332 962 332 935 304 53 304 X 0 251 L 0 81 Y 53 28 Z N M 935 28 L 658 304 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="6&quot; Lens Box Shape 20°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.61cm" svg:height="0.87cm" svg:x="6.2cm" svg:y="23.51cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 332" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 53 28 L 935 28 962 0 1000 0 1000 332 962 332 935 304 53 304 X 0 251 L 0 81 Y 53 28 Z N M 935 28 L 658 304 M 935 304 L 658 28 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="6&quot; Lens Box Shape Variable Focus" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.61cm" svg:height="0.87cm" svg:x="6.2cm" svg:y="24.68cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 332" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 53 28 L 935 28 962 0 1000 0 1000 332 962 332 935 304 53 304 X 0 251 L 0 81 Y 53 28 Z N M 877 144 L 877 123 920 123 877 209 920 209 920 188 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.07cm" svg:height="0.67cm" svg:x="5.31cm" svg:y="23.61cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">50°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr5" draw:layer="layout" svg:width="1.07cm" svg:height="1.08cm" svg:x="5.31cm" svg:y="24.78cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">40°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr5" draw:layer="layout" svg:width="1.07cm" svg:height="1.08cm" svg:x="5.31cm" svg:y="25.95cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">30°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.07cm" svg:height="0.67cm" svg:x="9.11cm" svg:y="23.61cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">20°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.7cm" svg:height="0.955cm" svg:x="8.71cm" svg:y="24.58cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Variable Focus</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="10.08cm" svg:height="8.71cm" svg:x="10.4cm" svg:y="2.1cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr7" draw:layer="layout" svg:width="3.25cm" svg:height="1.27cm" svg:x="10.6cm" svg:y="2.3cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Enhanced ERS Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Enhanced ERS 15°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.19cm" svg:height="1.33cm" svg:x="10.6cm" svg:y="5.3cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 417" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 103 L 135 57 397 57 431 85 615 85 729 47 923 47 960 0 1000 0 1000 417 960 417 923 370 729 370 615 332 431 332 397 360 135 360 0 313 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Enhanced ERS 10°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.19cm" svg:height="1.66cm" svg:x="10.6cm" svg:y="7.03cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 520" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 155 L 135 109 397 109 431 135 623 135 737 50 923 50 960 0 1000 0 1000 520 960 520 923 470 737 470 623 385 431 385 397 411 135 411 0 365 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Enhanced ERS 5°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="4.23cm" svg:height="1.8cm" svg:x="10.6cm" svg:y="8.89cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 426" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 134 L 102 99 299 99 324 122 469 122 769 34 942 34 965 0 1000 0 1000 426 965 426 942 392 769 392 469 304 324 304 299 327 102 327 0 292 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Enhanced ERS 90°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.99cm" svg:x="16cm" svg:y="2.49cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 485" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 94 L 202 0 545 0 601 94 880 94 932 0 1000 0 1000 485 932 485 880 390 601 390 545 485 202 485 0 390 Z N M 880 94 L 880 156 798 156 798 329 880 329 880 390 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Enhanced ERS 70°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.99cm" svg:x="16cm" svg:y="3.88cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 485" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 94 L 202 0 545 0 601 94 880 94 932 0 1000 0 1000 485 932 485 880 390 601 390 545 485 202 485 0 390 Z N M 880 94 L 880 390 M 785 94 L 785 390 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Enhanced ERS 50°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.99cm" svg:x="16cm" svg:y="5.26cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 485" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 94 L 202 0 545 0 601 94 880 94 932 0 1000 0 1000 485 932 485 880 390 601 390 545 485 202 485 0 390 Z N M 880 94 L 798 242 880 390 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Enhanced ERS 36° to 40°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.99cm" svg:x="16cm" svg:y="6.65cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 485" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 94 L 202 0 545 0 601 94 880 94 932 0 1000 0 1000 485 932 485 880 390 601 390 545 485 202 485 0 390 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Enhanced ERS 26° or 30°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.99cm" svg:x="16cm" svg:y="8.03cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 485" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 94 L 202 0 545 0 601 94 880 94 932 0 1000 0 1000 485 932 485 880 390 601 390 545 485 202 485 0 390 Z N M 880 94 L 714 390 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Enhanced ERS 19° or 20°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.99cm" svg:x="16cm" svg:y="9.42cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 485" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 94 L 202 0 545 0 601 94 880 94 932 0 1000 0 1000 485 932 485 880 390 601 390 545 485 202 485 0 390 Z N M 880 94 L 714 390 M 880 390 L 714 94 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="18.24cm" svg:y="2.65cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">90°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="18.24cm" svg:y="4.04cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">70°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="18.24cm" svg:y="5.42cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">50°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.07cm" svg:height="0.67cm" svg:x="18.24cm" svg:y="6.81cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">36° to 40°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.07cm" svg:height="0.67cm" svg:x="18.24cm" svg:y="8.19cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">26° to 30°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.07cm" svg:height="0.67cm" svg:x="18.24cm" svg:y="9.58cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">19° or 20°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="13.89cm" svg:y="5.63cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">15°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="13.89cm" svg:y="7.53cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">10°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="15.03cm" svg:y="9.46cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">5°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="10.08cm" svg:height="2.39cm" svg:x="10.4cm" svg:y="11.01cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="6.49cm" svg:height="0.76cm" svg:x="10.6cm" svg:y="11.21cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">8&quot; Diameter Lens Box Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="8&quot; Lens Box Shape 10°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.91cm" svg:height="1.03cm" svg:x="15.7cm" svg:y="12.17cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 354" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 56 25 L 945 25 970 0 1000 0 1000 354 970 354 945 329 56 329 X 0 273 L 0 81 Y 56 25 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="18.81cm" svg:y="12.35cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">10°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="10.08cm" svg:height="7.86cm" svg:x="10.4cm" svg:y="13.7cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="5.81cm" svg:height="0.76cm" svg:x="10.6cm" svg:y="13.9cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">8&quot; Diameter Lens Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Radial 8&quot;×9&quot; Lens" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.98cm" svg:height="1.12cm" svg:x="11.1cm" svg:y="14.86cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1875" draw:text-areas="564 257 1271 754" draw:type="NonPrimitive" draw:enhanced-path="U 937 937 1875 1875 90 270 N M 937 0 L 2565 0 2751 197 4653 197 4830 0 5000 0 5000 1875 4830 1875 4653 1677 2751 1677 2565 1875 937 1875 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Radial 8&quot;×10&quot; Lens" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.98cm" svg:height="1.12cm" svg:x="11.1cm" svg:y="16.18cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1875" draw:text-areas="564 257 1271 754" draw:type="NonPrimitive" draw:enhanced-path="U 937 937 1875 1875 90 270 N M 937 0 L 2565 0 2751 197 4653 197 4830 0 5000 0 5000 1875 4830 1875 4653 1677 2751 1677 2565 1875 937 1875 N M 4653 197 L 3321 1677 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Radial 8&quot;×11&quot; Lens" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.98cm" svg:height="1.12cm" svg:x="11.1cm" svg:y="17.5cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1875" draw:text-areas="564 257 1271 754" draw:type="NonPrimitive" draw:enhanced-path="U 937 937 1875 1875 90 270 N M 937 0 L 2565 0 2751 197 4653 197 4830 0 5000 0 5000 1875 4830 1875 4653 1677 2751 1677 2565 1875 937 1875 N M 4653 197 L 3321 1677 M 4653 1677 L 3321 197 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Radial 8&quot;×13&quot; Lens" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.98cm" svg:height="1.12cm" svg:x="11.1cm" svg:y="18.82cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1875" draw:text-areas="564 257 1271 754" draw:type="NonPrimitive" draw:enhanced-path="U 937 937 1875 1875 90 270 N M 937 0 L 2565 0 2751 197 4653 197 4830 0 5000 0 5000 1875 4830 1875 4653 1677 2751 1677 2565 1875 937 1875 N M 3321 625 L 5000 625 M 3321 1250 L 5000 1250 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 8&quot;×9&quot; Lens" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.14cm" svg:height="1.12cm" svg:x="14.74cm" svg:y="14.86cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1779" draw:text-areas="564 257 1271 754" draw:type="NonPrimitive" draw:enhanced-path="M 0 524 L 419 513 W 322 0 2397 1779 419 513 1360 0 L 2723 0 2880 202 4697 202 4858 0 5000 0 5000 1779 4858 1779 4697 1577 2880 1577 2723 1779 1360 1779 W 322 0 2397 1779 1360 1779 419 1266 L 0 1266 0 524 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 8&quot;×10&quot; Lens" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.14cm" svg:height="1.12cm" svg:x="14.74cm" svg:y="16.18cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1779" draw:text-areas="564 257 1271 754" draw:type="NonPrimitive" draw:enhanced-path="M 0 524 L 419 513 W 322 0 2397 1779 419 513 1360 0 L 2723 0 2880 202 4697 202 4858 0 5000 0 5000 1779 4858 1779 4697 1577 2880 1577 2723 1779 1360 1779 W 322 0 2397 1779 1360 1779 419 1266 L 0 1266 0 524 Z N M 4697 202 L 3603 1577 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 8&quot;×11&quot; Lens" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.14cm" svg:height="1.12cm" svg:x="14.74cm" svg:y="17.5cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1779" draw:text-areas="564 257 1271 754" draw:type="NonPrimitive" draw:enhanced-path="M 0 524 L 419 513 W 322 0 2397 1779 419 513 1360 0 L 2723 0 2880 202 4697 202 4858 0 5000 0 5000 1779 4858 1779 4697 1577 2880 1577 2723 1779 1360 1779 W 322 0 2397 1779 1360 1779 419 1266 L 0 1266 0 524 Z N M 4697 202 L 3603 1577 M 4697 1577 L 3603 202 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 8&quot;×13&quot; Lens" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.14cm" svg:height="1.12cm" svg:x="14.74cm" svg:y="18.82cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1779" draw:text-areas="564 257 1271 754" draw:type="NonPrimitive" draw:enhanced-path="M 0 524 L 419 513 W 322 0 2397 1779 419 513 1360 0 L 2723 0 2880 202 4697 202 4858 0 5000 0 5000 1779 4858 1779 4697 1577 2880 1577 2723 1779 1360 1779 W 322 0 2397 1779 1360 1779 419 1266 L 0 1266 0 524 Z N M 3322 593 L 5000 593 M 3322 1186 L 5000 1186 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 8&quot; Variable Focus Lens" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.47cm" svg:height="1.12cm" svg:x="14.74cm" svg:y="20.14cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 322" draw:text-areas="564 257 1271 754" draw:type="NonPrimitive" draw:enhanced-path="M 44 34 L 331 34 365 77 674 77 691 34 949 34 971 0 1000 0 1000 322 971 322 949 288 691 288 674 245 365 245 331 288 44 288 X 0 261 L 0 61 Y 44 34 N M 889 147 L 889 127 925 127 889 191 925 191 925 175 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.46cm" svg:height="0.67cm" svg:x="18.08cm" svg:y="15.09cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">8&quot;×9&quot;</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.46cm" svg:height="0.67cm" svg:x="18.08cm" svg:y="16.41cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">8&quot;×10&quot;</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.46cm" svg:height="0.67cm" svg:x="18.08cm" svg:y="17.73cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">8&quot;×11&quot;</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.46cm" svg:height="0.67cm" svg:x="18.08cm" svg:y="19.05cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">8&quot;×13&quot;</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr5" draw:layer="layout" svg:width="1.79cm" svg:height="1.08cm" svg:x="18.08cm" svg:y="20.16cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Variable Focus</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="10.08cm" svg:height="2.85cm" svg:x="10.4cm" svg:y="21.86cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="5.87cm" svg:height="0.76cm" svg:x="10.6cm" svg:y="22.06cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">10&quot; Diameter Lens Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Radial 10&quot;×12&quot;" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.48cm" svg:height="1.39cm" svg:x="10.7cm" svg:y="23.02cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 2002" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="U 1001 1001 2002 2002 90 270 N M 1001 0 L 2930 0 3082 169 4737 169 4848 0 5000 0 5000 2002 4848 2002 4737 1833 3082 1833 2930 2002 1001 2002 N N F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial 10&quot;×12&quot;" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.64cm" svg:height="1.39cm" svg:x="14.57cm" svg:y="23.02cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1917" draw:text-areas="199 90 447 265" draw:type="NonPrimitive" draw:enhanced-path="M 0 633 L 333 633 W 278 0 2120 1917 333 633 1199 0 L 3016 0 3171 197 4741 197 4855 0 5000 0 5000 1917 4855 1917 4741 1719 3171 1719 3016 1917 1199 1917 W 278 0 2120 1917 1199 1917 333 1283 L 0 1283 0 633 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.71cm" svg:height="0.67cm" svg:x="18.41cm" svg:y="23.38cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">10&quot;×12&quot;</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+</draw:page>
+<draw:page draw:name="ERS, Fresnels, PARs, Beams, ERFs" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="6.5cm" svg:height="0.76cm" svg:x="1.7cm" svg:y="1.4cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Ellipsoidal Reflector Spotlights</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8.1cm" svg:height="3.14cm" svg:x="2.1cm" svg:y="2.1cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr7" draw:layer="layout" svg:width="4.62cm" svg:height="1.27cm" svg:x="2.2cm" svg:y="2.3cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">10&quot; Diameter Lens Box Instrument</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="10° Lens Box Shape" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.91cm" svg:height="1.14cm" svg:x="2.2cm" svg:y="3.8cm">
+<draw:glue-point draw:id="4" svg:x="-1.901cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 354" draw:text-areas="100 50 800 363" draw:type="NonPrimitive" draw:enhanced-path="M 58 58 L 401 58 429 44 933 44 967 0 1000 0 1000 392 967 392 933 348 429 348 401 334 58 334 X 0 276 L 0 116 Y 58 58 N M 699 348 L 933 44 M 933 348 L 699 44 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.46cm" svg:height="0.67cm" svg:x="5.3cm" svg:y="4.04cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">10°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8.1cm" svg:height="7.14cm" svg:x="2.1cm" svg:y="5.4cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="3.54cm" svg:height="0.76cm" svg:x="2.2cm" svg:y="5.6cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">ERS Designators</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Variable Focus" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.16cm" svg:height="0.22cm" svg:x="2.5cm" svg:y="6.7cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1361" draw:type="NonPrimitive" draw:enhanced-path="M 0 454 L 0 0 1000 0 0 1361 1000 1361 1000 908 N Z F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Template/Gobo" draw:style-name="SolidFill" draw:text-style-name="P3" draw:layer="layout" svg:width="0.22cm" svg:height="0.22cm" svg:x="2.5cm" svg:y="7.3cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:type="NonPrimitive" draw:enhanced-path="U 500 500 1000 1000 0 360 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Template/Gobo" draw:style-name="SolidFill" draw:text-style-name="P3" draw:layer="layout" svg:width="0.22cm" svg:height="0.22cm" svg:x="2.5cm" svg:y="7.89cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 0 1000 1000 500 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Template/Gobo" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.2cm" svg:height="0.22cm" svg:x="2.5cm" svg:y="8.49cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1097" draw:type="NonPrimitive" draw:enhanced-path="M 0 447 L 0 0 1000 0 1000 447 N L 500 0 500 1097 N M 233 1097 L 767 1097 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Iris" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.22cm" svg:height="0.22cm" svg:x="2.5cm" svg:y="9.09cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:type="NonPrimitive" draw:enhanced-path="U 500 500 1000 1000 0 360 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Iris" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.17cm" svg:height="0.22cm" svg:x="2.5cm" svg:y="9.69cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1329" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 N M 0 1329 L 1000 1329 N M 500 0 L 500 1329 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Gobo Rotator" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.21cm" svg:height="0.22cm" svg:x="2.5cm" svg:y="10.28cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1046" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 574 0 N M 287 0 W 287 0 861 519 574 0 574 519 L 269 519 M 0 1046 L 537 1046 M 269 0 L 269 1046 M 574 519 L 1000 1046 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Gobo Rotator" draw:style-name="SolidFill" draw:text-style-name="P3" draw:layer="layout" svg:width="0.28cm" svg:height="0.22cm" svg:x="2.5cm" svg:y="10.88cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 3919" draw:type="NonPrimitive" draw:enhanced-path="M 3281 1300 L 5000 1300 4141 3019 Z N U 2159 2159 4318 4318 0 360 Z F N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Double Gobo Rotator" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.43cm" svg:height="0.22cm" svg:x="2.5cm" svg:y="11.48cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1278" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 588 0 N M 215 0 W 215 0 950 633 583 0 583 633 L 226 633 M 0 1278 L 452 1278 M 226 0 L 226 1278 M 583 633 L 1199 1278 N M 1301 0 L 1889 0 N M 1516 0 W 1516 0 2251 633 1883 0 1883 633 L 1527 633 M 1301 1278 L 1753 1278 M 1527 0 L 1527 1278 M 1883 633 L 2500 1278 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Double Gobo Rotator" draw:style-name="SolidFill" draw:text-style-name="P3" draw:layer="layout" svg:width="0.32cm" svg:height="0.22cm" svg:x="2.5cm" svg:y="12.08cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 3442" draw:type="NonPrimitive" draw:enhanced-path="M 3429 1077 L 4852 1077 4141 2500 Z N U 2500 1788 3576 3576 0 360 Z F N M 148 2500 L 1571 2500 859 1077 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="3.93cm" svg:height="0.67cm" svg:x="3.1cm" svg:y="6.48cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Variable Focus (Zoom)</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="3.17cm" svg:height="0.67cm" svg:x="3.1cm" svg:y="7.67cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Template or Gobo</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="0.93cm" svg:height="0.67cm" svg:x="3.1cm" svg:y="9.17cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Iris</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.46cm" svg:height="0.67cm" svg:x="3.1cm" svg:y="10.36cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Gobo Rotator</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="3.53cm" svg:height="0.67cm" svg:x="3.1cm" svg:y="11.53cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Double Gobo Rotator</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:polyline draw:style-name="SolidLine" draw:text-style-name="P4" draw:layer="layout" svg:width="0.13cm" svg:height="1.41cm" svg:x="3cm" svg:y="7.3cm" svg:viewBox="0 0 131 1411" draw:points="0,0 131,0 131,1411 0,1411">
+<text:p/>
+</draw:polyline>
+<draw:polyline draw:style-name="SolidLine" draw:text-style-name="P4" draw:layer="layout" svg:width="0.13cm" svg:height="0.82cm" svg:x="3cm" svg:y="9.09cm" svg:viewBox="0 0 131 821" draw:points="0,0 131,0 131,821 0,821">
+<text:p/>
+</draw:polyline>
+<draw:polyline draw:style-name="SolidLine" draw:text-style-name="P4" draw:layer="layout" svg:width="0.13cm" svg:height="0.82cm" svg:x="3cm" svg:y="10.28cm" svg:viewBox="0 0 131 821" draw:points="0,0 131,0 131,821 0,821">
+<text:p/>
+</draw:polyline>
+<draw:polyline draw:style-name="SolidLine" draw:text-style-name="P4" draw:layer="layout" svg:width="0.13cm" svg:height="0.82cm" svg:x="3cm" svg:y="11.48cm" svg:viewBox="0 0 131 821" draw:points="0,0 131,0 131,821 0,821">
+<text:p/>
+</draw:polyline>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="6.5cm" svg:height="0.76cm" svg:x="10.4cm" svg:y="1.4cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Fresnel Lens Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="9.7cm" svg:height="3.14cm" svg:x="10.8cm" svg:y="2.1cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="3&quot; Fresnel" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.4cm" svg:height="0.4cm" svg:x="11cm" svg:y="2.4cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2500" draw:type="NonPrimitive" draw:enhanced-path="M 336 336 L 336 594 A 0 0 4410 2535 336 594 336 1940 L 336 2164 2037 2164 2176 2500 2500 2500 2500 0 2176 0 2037 336 336 336 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="6&quot; Fresnel" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.8cm" svg:height="0.8cm" svg:x="11cm" svg:y="3cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2500" draw:type="NonPrimitive" draw:enhanced-path="M 369 268 L 369 426 A 0 0 2976 2500 369 426 369 2074 L 369 2232 2065 2232 2244 2500 2500 2500 2500 0 2244 0 2065 268 369 268 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="8&quot; Fresnel" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="1.2cm" svg:x="11cm" svg:y="4cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2500" draw:type="NonPrimitive" draw:enhanced-path="M 356 193 L 356 373 A 0 0 2479 2500 356 373 356 2127 L 356 2307 2153 2307 2286 2500 2500 2500 2500 0 2286 0 2153 193 356 193 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="12&quot; Fresnel" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.6cm" svg:height="1.6cm" svg:x="15.5cm" svg:y="2.4cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2500" draw:type="NonPrimitive" draw:enhanced-path="M 336 336 L 336 594 A 0 0 4410 2535 336 594 336 1940 L 336 2164 2037 2164 2176 2500 2500 2500 2500 0 2176 0 2037 336 336 336 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Oval Beam Fresnel" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.8cm" svg:height="0.8cm" svg:x="16.3cm" svg:y="4.2cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2500" draw:type="NonPrimitive" draw:enhanced-path="M 369 268 L 369 426 A 0 0 2976 2500 369 426 369 2074 L 369 2232 2065 2232 2244 2500 2500 2500 2500 0 2244 0 2065 268 369 268 Z N M 2065 268 L 2065 2232 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.19cm" svg:height="0.67cm" svg:x="12.4cm" svg:y="2.27cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">3&quot; Fresnel</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.19cm" svg:height="0.67cm" svg:x="12.4cm" svg:y="3.07cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">6&quot; Fresnel</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.19cm" svg:height="0.67cm" svg:x="12.4cm" svg:y="4.27cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">8&quot; Fresnel</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.19cm" svg:height="0.67cm" svg:x="17.3cm" svg:y="2.87cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">12&quot; Fresnel</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="3.3cm" svg:height="0.67cm" svg:x="17.3cm" svg:y="4.27cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Oval Beam Fresnel</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="7.9cm" svg:height="0.76cm" svg:x="10.4cm" svg:y="5.4cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">PAR Lamp Instruments &amp; Designations</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="9.7cm" svg:height="11.6cm" svg:x="10.8cm" svg:y="6.5cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.62cm" svg:height="0.76cm" svg:x="11cm" svg:y="6.7cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">PAR Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="MR-16 Birdie" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.5cm" svg:height="0.33cm" svg:x="11.96cm" svg:y="7.76cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1654" draw:type="NonPrimitive" draw:enhanced-path="M 827 0 L 2500 0 2500 1654 827 1654 W 0 0 1654 1654 827 1654 827 0 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="PAR 38" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.83cm" svg:height="0.42cm" svg:x="11.79cm" svg:y="8.29cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1250" draw:type="NonPrimitive" draw:enhanced-path="M 625 0 L 2500 0 2500 1250 625 1250 W 0 0 1250 1250 625 1250 625 0 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="PAR 46" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.67cm" svg:height="0.81cm" svg:x="11.37cm" svg:y="8.91cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1210" draw:type="NonPrimitive" draw:enhanced-path="M 605 0 L 2500 0 2500 1210 605 1210 W 0 0 1210 1210 605 1210 605 0 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="PAR 56" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.99cm" svg:height="1.07cm" svg:x="11.21cm" svg:y="9.92cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1344" draw:type="NonPrimitive" draw:enhanced-path="M 672 0 L 2500 0 2500 1344 672 1344 W 0 0 1344 1344 672 1344 672 0 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="PAR 64" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.41cm" svg:height="1.44cm" svg:x="11cm" svg:y="11.19cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1491" draw:type="NonPrimitive" draw:enhanced-path="M 745 0 L 2500 0 2500 1491 745 1491 W 0 0 1491 1491 745 1491 745 0 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Axial/Enhanced PAR" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.55cm" svg:height="1.31cm" svg:x="11.43cm" svg:y="12.83cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2114" draw:type="NonPrimitive" draw:enhanced-path="M 0 820 L 1182 111 1858 0 2500 0 2500 2114 1858 2114 1182 2003 0 1293 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Variable Focus PAR Lens" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.55cm" svg:height="1.31cm" svg:x="11.43cm" svg:y="14.34cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2114" draw:type="NonPrimitive" draw:enhanced-path="M 0 820 L 1182 111 1858 0 2500 0 2500 2114 1858 2114 1182 2003 0 1293 Z N M 1940 1009 L 1940 893 2148 893 1940 1260 2148 1260 2148 1105 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Extra Wide Flood" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.81cm" svg:height="1.08cm" svg:x="16.37cm" svg:y="7.76cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1498" draw:type="NonPrimitive" draw:enhanced-path="M 749 0 L 2500 0 2500 1498 749 1498 W 0 0 1498 1498 749 1498 749 0 Z N M 2292 0 L 2292 408 2030 408 2030 1090 2292 1090 2292 1498 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Wide Flood" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.81cm" svg:height="1.08cm" svg:x="16.37cm" svg:y="9.04cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1498" draw:type="NonPrimitive" draw:enhanced-path="M 749 0 L 2500 0 2500 1498 749 1498 W 0 0 1498 1498 749 1498 749 0 Z N M 2500 0 L 1930 749 2500 1498 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Medium Flood" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.81cm" svg:height="1.08cm" svg:x="16.37cm" svg:y="10.32cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1498" draw:type="NonPrimitive" draw:enhanced-path="M 749 0 L 2500 0 2500 1498 749 1498 W 0 0 1498 1498 749 1498 749 0 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Narrow" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.81cm" svg:height="1.08cm" svg:x="16.37cm" svg:y="11.6cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1498" draw:type="NonPrimitive" draw:enhanced-path="M 749 0 L 2500 0 2500 1498 749 1498 W 0 0 1498 1498 749 1498 749 0 Z N M 2500 0 L 1988 1498 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Very Narrow" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.81cm" svg:height="1.08cm" svg:x="16.37cm" svg:y="12.88cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1498" draw:type="NonPrimitive" draw:enhanced-path="M 749 0 L 2500 0 2500 1498 749 1498 W 0 0 1498 1498 749 1498 749 0 Z N M 2500 0 L 1988 1498 M 1988 0 L 2500 1498 N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="VerticalOrientation" draw:style-name="SolidFill" draw:text-style-name="P3" draw:layer="layout" svg:width="1.81cm" svg:height="1.08cm" svg:x="16.37cm" svg:y="14.16cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1498" draw:type="NonPrimitive" draw:enhanced-path="M 749 0 L 2500 0 2500 1498 749 1498 W 0 0 1498 1498 749 1498 749 0 Z F N M 728 341 L 620 661 836 661 Z N M 728 1156 L 620 836 836 836 Z N M 728 661 L 728 836 F N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="HorizontalOrientation" draw:style-name="SolidFill" draw:text-style-name="P3" draw:layer="layout" svg:width="1.81cm" svg:height="1.08cm" svg:x="16.37cm" svg:y="15.44cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1498" draw:type="NonPrimitive" draw:enhanced-path="M 749 0 L 2500 0 2500 1498 749 1498 W 0 0 1498 1498 749 1498 749 0 Z F N M 1136 749 L 815 641 815 857 Z N M 320 749 L 641 641 641 857 Z N M 815 749 L 641 749 F N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="45°Orientation" draw:style-name="SolidFill" draw:text-style-name="P3" draw:layer="layout" svg:width="1.81cm" svg:height="1.08cm" svg:x="16.37cm" svg:y="16.72cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1498" draw:type="NonPrimitive" draw:enhanced-path="M 749 0 L 2500 0 2500 1498 749 1498 W 0 0 1498 1498 749 1498 749 0 Z F N M 1016 460 L 713 611 866 763 Z N M 440 1037 L 590 734 743 887 Z N M 790 687 L 666 811 F N"/>
+</draw:custom-shape>
+<draw:polyline draw:style-name="SolidLine" draw:text-style-name="P4" draw:layer="layout" svg:width="0.13cm" svg:height="3.64cm" svg:x="18.38cm" svg:y="14.16cm" svg:viewBox="0 0 131 3641" draw:points="0,0 131,0 131,3641 0,3641">
+<text:p/>
+</draw:polyline>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.46cm" svg:height="0.67cm" svg:x="13.61cm" svg:y="7.59cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">MR-16 Birdie</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.46cm" svg:height="0.67cm" svg:x="13.61cm" svg:y="8.17cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Par 38</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.46cm" svg:height="0.67cm" svg:x="13.61cm" svg:y="8.98cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Par 46</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.46cm" svg:height="0.67cm" svg:x="13.61cm" svg:y="10.12cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Par 56</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.46cm" svg:height="0.67cm" svg:x="13.61cm" svg:y="11.58cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Par 64</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.78cm" svg:height="0.955cm" svg:x="13.2cm" svg:y="12.95cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Axial or Enhanced PAR</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.78cm" svg:height="0.955cm" svg:x="13.2cm" svg:y="14.46cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Variable Focus PAR Lens</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.09cm" svg:height="0.955cm" svg:x="18.37cm" svg:y="7.76cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Extra-Wide Flood</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.09cm" svg:height="0.955cm" svg:x="18.37cm" svg:y="9.04cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Wide Flood</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.09cm" svg:height="0.955cm" svg:x="18.37cm" svg:y="10.32cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Medium Flood</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.09cm" svg:height="0.955cm" svg:x="18.37cm" svg:y="11.6cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Narrow Flood</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.3cm" svg:height="0.955cm" svg:x="18.37cm" svg:y="12.88cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Very Narrow Flood</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr5" draw:layer="layout" svg:width="2.3cm" svg:height="1.08cm" svg:x="18.38cm" svg:y="15.74cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Lamp Axis Orientation</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8.1cm" svg:height="8.35cm" svg:x="2.1cm" svg:y="13.6cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="6.5cm" svg:height="0.76cm" svg:x="1.7cm" svg:y="12.74cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Beam Projector Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="10&quot; Beam Projector" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.05cm" svg:height="1.43cm" svg:x="2.71cm" svg:y="13.8cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 3395" draw:type="NonPrimitive" draw:enhanced-path="M 675 227 L 2095 227 2259 0 2500 0 2500 3395 2259 3395 2095 3168 675 3168 W 0 0 2699 3395 675 3168 675 227 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="12&quot; Beam Projector" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.28cm" svg:height="1.78cm" svg:x="2.59cm" svg:y="15.43cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 3477" draw:type="NonPrimitive" draw:enhanced-path="M 622 227 L 2093 227 2273 0 2500 0 2500 3477 2273 3477 2093 3250 622 3250 W 0 0 2459 3477 622 3250 622 227 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="16&quot; Beam Projector" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.64cm" svg:height="2.31cm" svg:x="2.41cm" svg:y="17.41cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 3516" draw:type="NonPrimitive" draw:enhanced-path="M 626 222 L 2105 222 2296 0 2500 0 2500 3516 2296 3516 2105 3294 626 3294 W 0 0 2441 3516 626 3294 626 222 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Enhanced Beam Projector" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.86cm" svg:height="1.86cm" svg:x="2.3cm" svg:y="19.92cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2500" draw:type="NonPrimitive" draw:enhanced-path="M 0 583 L 851 284 1110 284 X 1198 188 L 2141 188 2316 0 2500 0 2500 2500 2316 2500 2141 2312 1198 2312 Y 1110 2216 L 851 2216 0 1917 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr8" draw:layer="layout" svg:width="3.555cm" svg:height="0.76cm" svg:x="4.36cm" svg:y="14.18cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">10&quot; Beam Projector</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr8" draw:layer="layout" svg:width="3.555cm" svg:height="0.76cm" svg:x="4.36cm" svg:y="15.99cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">12&quot; Beam Projector</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr8" draw:layer="layout" svg:width="3.555cm" svg:height="0.76cm" svg:x="4.36cm" svg:y="18.23cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">16&quot; Beam Projector</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr8" draw:layer="layout" svg:width="4.555cm" svg:height="0.76cm" svg:x="4.36cm" svg:y="20.52cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Enhanced Beam Projector</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8.1cm" svg:height="3.5cm" svg:x="2.1cm" svg:y="22.81cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="6.5cm" svg:height="0.76cm" svg:x="1.7cm" svg:y="21.95cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Other Spotlights</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="PlanoConvex" draw:style-name="SolidLine" draw:text-style-name="P4" draw:layer="layout" svg:width="1.38cm" svg:height="1.2cm" svg:x="3.21cm" svg:y="23.01cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2178" draw:type="NonPrimitive" draw:enhanced-path="M 318 186 L 318 329 A 11 0 2167 2178 318 329 318 1849 L 318 1992 1879 1992 1996 2178 2178 2178 A 95 0 2383 2178 2178 1711 2178 468 L 2178 0 1996 0 1879 186 Z N F"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.671cm" svg:height="0.67cm" svg:x="5.7cm" svg:y="23.28cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Plano-Convex</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Pinspot" draw:style-name="SolidLine" draw:text-style-name="P4" draw:layer="layout" svg:width="3.2cm" svg:height="1.6cm" svg:x="2.3cm" svg:y="24.41cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 1250" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="NonPrimitive" draw:enhanced-path="M 178 96 L 178 187 A 0 0 1239 1250 178 187 178 1063 L 178 1154 2326 1154 2393 1250 2500 1250 2500 0 2393 0 2326 96 178 96 Z N F"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.19cm" svg:height="0.67cm" svg:x="5.7cm" svg:y="24.88cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Pinspot</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="9.7cm" svg:height="5.5cm" svg:x="10.8cm" svg:y="18.9cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="6.5cm" svg:height="0.76cm" svg:x="10.4cm" svg:y="18.1cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Ellipsoidal Reflector Floodlights</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="10&quot; Scoop" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.74cm" svg:height="1.46cm" svg:x="11.25cm" svg:y="19.1cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 4900" draw:type="NonPrimitive" draw:enhanced-path="M 0 2450 C 0 100 2239 703 2239 0 L 2500 0 2500 4900 2239 4900 C 2239 4197 0 4799 0 2450 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="12&quot; Scoop" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.99cm" svg:height="1.92cm" svg:x="11cm" svg:y="20.76cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 4864" draw:type="NonPrimitive" draw:enhanced-path="M 0 2432 C 0 75 2199 527 2199 0 L 2500 0 2500 4864 2199 4864 C 2199 4337 0 4789 0 2432 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="14&quot; Scoop" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.14cm" svg:height="2.23cm" svg:x="14.6cm" svg:y="19.1cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 4916" draw:type="NonPrimitive" draw:enhanced-path="M 0 2458 C 0 65 2227 455 2227 0 L 2500 0 2500 4916 2227 4916 C 2227 4461 0 4851 0 2458 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="18&quot; Scoop" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.34cm" svg:height="2.67cm" svg:x="14.44cm" svg:y="21.53cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 4962" draw:type="NonPrimitive" draw:enhanced-path="M 0 2481 C 0 55 2247 385 2247 0 L 2500 0 2500 4962 2247 4962 C 2247 4577 0 4907 0 2481 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2cm" svg:height="0.67cm" svg:x="12.2cm" svg:y="19.5cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">10&quot; Scoop</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2cm" svg:height="0.67cm" svg:x="12.2cm" svg:y="21.39cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">12&quot; Scoop</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2cm" svg:height="0.67cm" svg:x="15.94cm" svg:y="19.88cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">14&quot; Scoop</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2cm" svg:height="0.67cm" svg:x="15.94cm" svg:y="22.53cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">18&quot; Scoop</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+</draw:page>
+<draw:page draw:name="Cyclorama, Striplight, Follow Spot, Source Four" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="4.97cm" svg:height="0.76cm" svg:x="1.7cm" svg:y="1.4cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Cyclorama Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="5.36cm" svg:height="0.76cm" svg:x="2.2cm" svg:y="2.3cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">T-3 Cyclorama Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="11.36cm" svg:height="8.54cm" svg:x="2.1cm" svg:y="2.1cm">
+<text:p/>
+</draw:rect>
+<draw:rect draw:name="1 Circuit T-3" draw:style-name="SolidLine" draw:layer="layout" svg:width="1.07cm" svg:height="1.3cm" svg:x="2.3cm" svg:y="3.5cm">
+<text:p/>
+</draw:rect>
+<draw:rect draw:name="2 Circuit T-3" draw:style-name="SolidLine" draw:layer="layout" svg:width="2.13cm" svg:height="1.3cm" svg:x="3.57cm" svg:y="3.5cm">
+<text:p/>
+</draw:rect>
+<draw:rect draw:name="3 Circuit T-3" draw:style-name="SolidLine" draw:layer="layout" svg:width="3.2cm" svg:height="1.3cm" svg:x="5.9cm" svg:y="3.5cm">
+<text:p/>
+</draw:rect>
+<draw:rect draw:name="4 Circuit T-3" draw:style-name="SolidLine" draw:layer="layout" svg:width="4.26cm" svg:height="1.3cm" svg:x="2.3cm" svg:y="5.87cm">
+<text:p/>
+</draw:rect>
+<draw:rect draw:name="6 Circuit T-3" draw:style-name="SolidLine" draw:layer="layout" svg:width="6.4cm" svg:height="1.3cm" svg:x="6.86cm" svg:y="5.87cm">
+<text:p/>
+</draw:rect>
+<draw:rect draw:name="9 Circuit T-3" draw:style-name="SolidLine" draw:layer="layout" svg:width="9.59cm" svg:height="1.3cm" svg:x="2.3cm" svg:y="8.24cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.7cm" svg:height="0.67cm" svg:x="1.99cm" svg:y="5cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">1 Circuit</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.7cm" svg:height="0.67cm" svg:x="3.79cm" svg:y="5cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">2 Circuit</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.7cm" svg:height="0.67cm" svg:x="6.65cm" svg:y="5cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">3 Circuit</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.7cm" svg:height="0.67cm" svg:x="3.58cm" svg:y="7.37cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">4 Circuit</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.7cm" svg:height="0.67cm" svg:x="9.21cm" svg:y="7.37cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">6 Circuit</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.7cm" svg:height="0.67cm" svg:x="6.25cm" svg:y="9.77cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">9 Circuit</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="5.36cm" svg:height="0.76cm" svg:x="13.86cm" svg:y="2.3cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Cyclorama Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="7.24cm" svg:height="8.9cm" svg:x="13.66cm" svg:y="2.1cm">
+<text:p/>
+</draw:rect>
+<draw:rect draw:name="1 Cell" draw:style-name="SolidLine" draw:layer="layout" svg:width="1.3cm" svg:height="1.3cm" svg:x="13.86cm" svg:y="3.5cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.32cm" svg:height="0.67cm" svg:x="15.26cm" svg:y="3.82cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">1 Cell</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="2 Cell" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.6cm" svg:height="1.3cm" svg:x="16.78cm" svg:y="3.5cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 500" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 500 0 500 Z M 500 0 L 500 500 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.32cm" svg:height="0.67cm" svg:x="19.58cm" svg:y="3.82cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">2 Cell</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="3 Cell" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.9cm" svg:height="1.3cm" svg:x="13.86cm" svg:y="5cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 333" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 333 0 333 Z M 333 0 L 333 333 M 667 0 L 667 333 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.32cm" svg:height="0.67cm" svg:x="17.96cm" svg:y="5.32cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">3 Cell</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="4 Cell" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="5.2cm" svg:height="1.3cm" svg:x="13.86cm" svg:y="6.5cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 250" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 250 0 250 Z M 250 0 L 250 250 M 500 0 L 500 250 M 750 0 L 750 250 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.32cm" svg:height="0.67cm" svg:x="19.26cm" svg:y="6.82cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">4 Cell</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="4 Cell" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="4.4cm" svg:height="2.8cm" svg:x="13.86cm" svg:y="8cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 636" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 636 0 636 Z M 500 0 L 500 636 M 0 318 L 1000 318 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.32cm" svg:height="0.67cm" svg:x="18.46cm" svg:y="9.07cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">4 Cell</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="9.39cm" svg:height="0.76cm" svg:x="1.7cm" svg:y="10.84cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Striplight Instruments &amp; Mounting Designations</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="11.36cm" svg:height="2.8cm" svg:x="2.1cm" svg:y="11.8cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.24cm" svg:height="0.76cm" svg:x="2.2cm" svg:y="12cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Striplight Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Striplight" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="7.8cm" svg:height="0.5cm" svg:x="2.3cm" svg:y="12.96cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 160" draw:type="NonPrimitive" draw:modifiers="160 2500" draw:enhanced-path="M 38 0 L ?f0 0 $1 38 $1 $0 0 $0 0 38 Z N">
+<draw:equation draw:name="f0" draw:formula="$1-28"/>
+<draw:handle draw:handle-position="1250 $0" draw:handle-range-y-minimum="0"/>
+<draw:handle draw:handle-position="$1 80" draw:handle-range-x-minimum="0"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Striplight" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="7.8cm" svg:height="0.5cm" svg:x="2.3cm" svg:y="13.8cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 240" draw:type="NonPrimitive" draw:modifiers="240 2500" draw:enhanced-path="M 0 87 L 50 57 50 0 ?f0 0 ?f0 57 $1 87 $1 $0 0 $0 Z N">
+<draw:equation draw:name="f0" draw:formula="$1-50"/>
+<draw:handle draw:handle-position="1250 $0" draw:handle-range-y-minimum="87"/>
+<draw:handle draw:handle-position="$1 120" draw:handle-range-x-minimum="100"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+<draw:rect draw:name="FluorescentFrame" draw:style-name="title1center" draw:layer="layout" svg:width="11.36cm" svg:height="4.06cm" svg:x="2.1cm" svg:y="14.8cm">
+<text:p/>
+</draw:rect>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.72cm" svg:height="0.76cm" svg:x="2.2cm" svg:y="15cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Fluorescent Instruments</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="1 Tube" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="7.8cm" svg:height="0.48cm" svg:x="2.3cm" svg:y="16cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 154" draw:type="NonPrimitive" draw:modifiers="2500 154" draw:enhanced-path="M 0 0 L $0 0 $0 $1 0 $1 Z N M 38 38 L ?f0 38 ?f0 ?f1 38 ?f1 Z N">
+<draw:equation draw:name="f0" draw:formula="$0-38"/>
+<draw:equation draw:name="f1" draw:formula="$1-38"/>
+<draw:handle draw:handle-position="1250 $1" draw:handle-range-y-minimum="90"/>
+<draw:handle draw:handle-position="$0 77" draw:handle-range-x-minimum="100"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+<draw:custom-shape draw:name="2 Tube" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="7.8cm" svg:height="0.78cm" svg:x="2.3cm" svg:y="16.7cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 250" draw:type="NonPrimitive" draw:modifiers="2500 250" draw:enhanced-path="M 0 0 L $0 0 $0 $1 0 $1 Z N M 38 38 L ?f0 38 ?f0 ?f1 38 ?f1 Z N M 38 ?f2 L ?f0 ?f2 ?f0 ?f3 38 ?f3 Z N">
+<draw:equation draw:name="f0" draw:formula="$0-38"/>
+<draw:equation draw:name="f1" draw:formula="0.46 * $1"/>
+<draw:equation draw:name="f2" draw:formula="0.54 * $1"/>
+<draw:equation draw:name="f3" draw:formula="$1-38"/>
+<draw:handle draw:handle-position="1250 $1" draw:handle-range-y-minimum="90"/>
+<draw:handle draw:handle-position="$0 125" draw:handle-range-x-minimum="100"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+<draw:custom-shape draw:name="3 Tube" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="7.8cm" svg:height="1.08cm" svg:x="2.3cm" svg:y="17.68cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 346" draw:type="NonPrimitive" draw:modifiers="2500 346" draw:enhanced-path="M 0 0 L $0 0 $0 $1 0 $1 Z N M 38 38 L ?f0 38 ?f0 ?f1 38 ?f1 Z N M 38 ?f2 L ?f0 ?f2 ?f0 ?f3 38 ?f3 Z N M 38 ?f4 L ?f0 ?f4 ?f0 ?f5 38 ?f5 Z N">
+<draw:equation draw:name="f0" draw:formula="$0-38"/>
+<draw:equation draw:name="f1" draw:formula="0.33 * $1"/>
+<draw:equation draw:name="f2" draw:formula="0.39 * $1"/>
+<draw:equation draw:name="f3" draw:formula="0.61 * $1"/>
+<draw:equation draw:name="f4" draw:formula="0.67 * $1"/>
+<draw:equation draw:name="f5" draw:formula="0.89 * $1"/>
+<draw:handle draw:handle-position="1250 $1" draw:handle-range-y-minimum="90"/>
+<draw:handle draw:handle-position="$0 173" draw:handle-range-x-minimum="100"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="4.51cm" svg:height="0.76cm" svg:x="1.7cm" svg:y="19.16cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Source Four Fixtures</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:name="SourceFourFrame" draw:style-name="title1center" draw:layer="layout" svg:width="11.36cm" svg:height="6cm" svg:x="2.1cm" svg:y="20.12cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="Source Four 90°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.69cm" svg:x="2.3cm" svg:y="20.42cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 853" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 250 L 433 133 433 71 1297 0 1616 107 1946 107 1978 130 2301 130 2375 0 2500 0 2500 853 2375 853 2301 723 1978 723 1946 746 1616 746 1297 853 433 781 433 720 0 603 Z M 433 133 L 433 720 Z M 2301 130 L 2301 308 2185 308 2185 545 2301 545 2301 723 N F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Source Four 70°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.69cm" svg:x="2.3cm" svg:y="21.38cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 853" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 250 L 433 133 433 71 1297 0 1616 107 1946 107 1978 130 2301 130 2375 0 2500 0 2500 853 2375 853 2301 723 1978 723 1946 746 1616 746 1297 853 433 781 433 720 0 603 Z M 433 133 L 433 720 Z M 2301 130 L 2301 723 M 2171 130 L 2171 723 N F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Source Four 50°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.69cm" svg:x="2.3cm" svg:y="22.35cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 853" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 250 L 433 133 433 71 1297 0 1616 107 1946 107 1978 130 2301 130 2375 0 2500 0 2500 853 2375 853 2301 723 1978 723 1946 746 1616 746 1297 853 433 781 433 720 0 603 Z M 433 133 L 433 720 Z M 2301 130 L 2189 426 2301 723 N F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Source Four 36°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.69cm" svg:x="2.3cm" svg:y="23.31cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 853" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 250 L 433 133 433 71 1297 0 1616 107 1946 107 1978 130 2301 130 2375 0 2500 0 2500 853 2375 853 2301 723 1978 723 1946 746 1616 746 1297 853 433 781 433 720 0 603 Z M 433 133 L 433 720 Z N F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Source Four 26°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.69cm" svg:x="2.3cm" svg:y="24.27cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 853" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 250 L 433 133 433 71 1297 0 1616 107 1946 107 1978 130 2301 130 2375 0 2500 0 2500 853 2375 853 2301 723 1978 723 1946 746 1616 746 1297 853 433 781 433 720 0 603 Z M 433 133 L 433 720 Z M 2301 130 L 1946 746 N F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Source Four 19°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.04cm" svg:height="0.69cm" svg:x="2.3cm" svg:y="25.23cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 853" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 250 L 433 133 433 71 1297 0 1616 107 1946 107 1978 130 2301 130 2375 0 2500 0 2500 853 2375 853 2301 723 1978 723 1946 746 1616 746 1297 853 433 781 433 720 0 603 Z M 433 133 L 433 720 Z M 2301 130 L 1946 746 M 2301 723 L 1946 107 N F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Source Four 15°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.19cm" svg:height="1.27cm" svg:x="7.6cm" svg:y="20.59cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 400" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 149 L 144 102 144 79 417 69 471 95 628 95 798 19 943 19 964 0 1000 0 1000 400 964 400 943 380 798 380 628 305 471 305 417 331 144 321 144 298 0 251 Z M 144 102 L 144 298 M 471 95 L 471 305 M 628 95 L 628 305 M 798 19 L 798 380 N F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Source Four 10°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.19cm" svg:height="1.59cm" svg:x="7.6cm" svg:y="22.33cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 499" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 200 L 144 153 144 131 417 121 471 147 628 147 798 26 943 26 964 0 1000 0 1000 499 964 499 943 473 798 473 628 352 471 352 417 378 144 368 144 346 0 299 Z M 144 153 L 144 346 M 471 147 L 471 352 M 628 147 L 628 352 M 798 26 L 798 473 N F"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Source Four 5°" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="4.23cm" svg:height="1.68cm" svg:x="7.6cm" svg:y="24.18cm">
+<draw:glue-point draw:id="4" svg:x="-0.899cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 398" draw:text-areas="257 117 579 344" draw:type="NonPrimitive" draw:enhanced-path="M 0 162 L 108 128 108 110 314 101 355 121 473 121 799 15 957 15 973 0 1000 0 1000 398 973 398 957 384 799 384 473 277 355 277 314 297 108 288 108 271 0 236 Z M 108 128 L 108 271 M 355 121 L 355 277 M 473 121 L 473 277 M 799 15 L 799 384 N F"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="4.84cm" svg:y="20.43cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">90°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="4.84cm" svg:y="21.39cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">70°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="4.84cm" svg:y="22.36cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">50°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="4.84cm" svg:y="23.32cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">36°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="4.84cm" svg:y="24.28cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">26°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="4.84cm" svg:y="25.24cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">19°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="12.03cm" svg:y="20.89cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">15°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="12.03cm" svg:y="22.79cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">10°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.1cm" svg:height="0.67cm" svg:x="12.03cm" svg:y="24.69cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">5°</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="2.58cm" svg:height="0.76cm" svg:x="13.86cm" svg:y="11.5cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Follow Spot</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="7.24cm" svg:height="6.1cm" svg:x="13.66cm" svg:y="11.3cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="Follow Spot" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.69cm" svg:height="4.7cm" svg:x="16.53cm" svg:y="12.5cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 2777" draw:type="NonPrimitive" draw:enhanced-path="M 132 0 L 868 0 W 736 0 1000 264 868 0 868 264 L 868 1115 1000 1292 1000 2510 868 2635 783 2635 667 2777 333 2777 217 2635 132 2635 0 2510 0 1292 132 1115 W 0 0 264 264 132 264 132 0 Z"/>
+</draw:custom-shape>
+</draw:page>
+<draw:page draw:name="Luminaries, Practicals, Specials, Booms, Accessories" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="6.5cm" svg:height="0.76cm" svg:x="1.7cm" svg:y="1.4cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Automated Luminaries</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8cm" svg:height="10.07cm" svg:x="2.1cm" svg:y="2.1cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="Moving Mirror" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="3.8cm" svg:height="1.38cm" svg:x="2.3cm" svg:y="2.4cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 364" draw:type="NonPrimitive" draw:enhanced-path="M 63 0 L 937 0 X 1000 63 L 1000 301 Y 937 364 L 63 364 X 0 301 L 0 63 Y 63 0 Z M 752 0 L 752 364 Z N T 876 183 192 110 0 360 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.49cm" svg:height="0.67cm" svg:x="6.3cm" svg:y="2.76cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Moving Mirror</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Moving Yoke" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.2cm" svg:height="2.2cm" svg:x="2.3cm" svg:y="3.98cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5000" draw:type="NonPrimitive" draw:enhanced-path="T 2500 2500 5000 5000 0 10 F N T 2500 2500 5000 5000 15 25 F N T 2500 2500 5000 5000 30 40 F N T 2500 2500 5000 5000 45 55 F N T 2500 2500 5000 5000 60 70 F N T 2500 2500 5000 5000 75 85 F N T 2500 2500 5000 5000 90 100 F N T 2500 2500 5000 5000 105 115 F N T 2500 2500 5000 5000 120 130 F N T 2500 2500 5000 5000 135 145 F N T 2500 2500 5000 5000 150 160 F N T 2500 2500 5000 5000 165 175 F N T 2500 2500 5000 5000 180 190 F N T 2500 2500 5000 5000 195 205 F N T 2500 2500 5000 5000 210 220 F N T 2500 2500 5000 5000 225 235 F N T 2500 2500 5000 5000 240 250 F N T 2500 2500 5000 5000 255 265 F N T 2500 2500 5000 5000 270 280 F N T 2500 2500 5000 5000 285 295 F N T 2500 2500 5000 5000 300 310 F N T 2500 2500 5000 5000 315 325 F N T 2500 2500 5000 5000 330 340 F N T 2500 2500 5000 5000 345 355 F N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.42cm" svg:height="0.67cm" svg:x="4.7cm" svg:y="4.75cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Moving Yoke</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Moving Head Wash Luminaire" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.2cm" svg:height="2.2cm" svg:x="2.3cm" svg:y="6.38cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5000" draw:type="NonPrimitive" draw:enhanced-path="T 2500 2500 5000 5000 0 10 F N T 2500 2500 5000 5000 15 25 F N T 2500 2500 5000 5000 30 40 F N T 2500 2500 5000 5000 45 55 F N T 2500 2500 5000 5000 60 70 F N T 2500 2500 5000 5000 75 85 F N T 2500 2500 5000 5000 90 100 F N T 2500 2500 5000 5000 105 115 F N T 2500 2500 5000 5000 120 130 F N T 2500 2500 5000 5000 135 145 F N T 2500 2500 5000 5000 150 160 F N T 2500 2500 5000 5000 165 175 F N T 2500 2500 5000 5000 180 190 F N T 2500 2500 5000 5000 195 205 F N T 2500 2500 5000 5000 210 220 F N T 2500 2500 5000 5000 225 235 F N T 2500 2500 5000 5000 240 250 F N T 2500 2500 5000 5000 255 265 F N T 2500 2500 5000 5000 270 280 F N T 2500 2500 5000 5000 285 295 F N T 2500 2500 5000 5000 300 310 F N T 2500 2500 5000 5000 315 325 F N T 2500 2500 5000 5000 330 340 F N T 2500 2500 5000 5000 345 355 F N M 1789 353 L 3211 353 3211 4647 1789 4647 Z N M 3211 1053 L 4158 1053 4158 3947 3211 3947 Z N T 1789 2500 1447 1447 90 270 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="4.83cm" svg:height="0.67cm" svg:x="4.7cm" svg:y="7.15cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Moving Head Wash Luminaire</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Moving Head Spot Luminaire" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.2cm" svg:height="2.2cm" svg:x="2.3cm" svg:y="8.78cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 5000" draw:type="NonPrimitive" draw:enhanced-path="T 2500 2500 5000 5000 0 10 F N T 2500 2500 5000 5000 15 25 F N T 2500 2500 5000 5000 30 40 F N T 2500 2500 5000 5000 45 55 F N T 2500 2500 5000 5000 60 70 F N T 2500 2500 5000 5000 75 85 F N T 2500 2500 5000 5000 90 100 F N T 2500 2500 5000 5000 105 115 F N T 2500 2500 5000 5000 120 130 F N T 2500 2500 5000 5000 135 145 F N T 2500 2500 5000 5000 150 160 F N T 2500 2500 5000 5000 165 175 F N T 2500 2500 5000 5000 180 190 F N T 2500 2500 5000 5000 195 205 F N T 2500 2500 5000 5000 210 220 F N T 2500 2500 5000 5000 225 235 F N T 2500 2500 5000 5000 240 250 F N T 2500 2500 5000 5000 255 265 F N T 2500 2500 5000 5000 270 280 F N T 2500 2500 5000 5000 285 295 F N T 2500 2500 5000 5000 300 310 F N T 2500 2500 5000 5000 315 325 F N T 2500 2500 5000 5000 330 340 F N T 2500 2500 5000 5000 345 355 F N M 1789 353 L 3211 353 3211 4647 1789 4647 Z N M 1789 995 L 1379 995 A 789 995 1968 2500 1379 995 789 1747 L 495 1747 X 363 1879 L 363 3121 Y 495 3253 A 789 2500 1968 4005 789 3253 1379 4005 L 1789 4005 N M 3211 4005 L 3984 4005 A 2868 1726 4384 4147 3984 4005 4384 2937 L 4637 2937 4637 2063 A 2868 853 4384 3274 4384 2063 3984 995 L 3211 995 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="4.83cm" svg:height="0.67cm" svg:x="4.7cm" svg:y="9.55cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Moving Head Spot Luminaire</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="External Moving Mirror" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.79cm" svg:x="2.8cm" svg:y="11.18cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 657" draw:type="NonPrimitive" draw:enhanced-path="M 231 216 L 0 216 M 231 441 L 0 441 N M 848 216 L 1000 216 1000 441 848 441 N U 540 328 656 656 0 360 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="4.83cm" svg:height="0.67cm" svg:x="4.2cm" svg:y="11.24cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">External Moving Mirror</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="6.5cm" svg:height="0.76cm" svg:x="1.7cm" svg:y="12.47cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Practicals &amp; Special Units</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:name="PracticalsFrame" draw:style-name="title1center" draw:layer="layout" svg:width="8cm" svg:height="4.78cm" svg:x="2.1cm" svg:y="13.43cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="Practical Luminaire" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.3cm" svg:height="1.3cm" svg:x="2.3cm" svg:y="13.63cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:type="NonPrimitive" draw:enhanced-path="M 0 1000 L 1000 1000 500 0 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="3.33cm" svg:height="0.67cm" svg:x="4cm" svg:y="13.95cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Practical Luminaire</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Slide Projector" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.5cm" svg:height="1.21cm" svg:x="2.3cm" svg:y="15.2cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 805" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 787 0 787 472 1000 472 1000 662 787 662 787 805 0 805 Z N U 404 404 562 562 360 0 Z N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Fogger" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.5cm" svg:height="1.21cm" svg:x="2.3cm" svg:y="16.8cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 800" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 850 0 850 250 1000 250 1000 550 850 550 850 800 0 800 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="3.33cm" svg:height="0.67cm" svg:x="4cm" svg:y="15.47cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Projector</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="3.33cm" svg:height="0.67cm" svg:x="4cm" svg:y="17.07cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Fogger</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="6.5cm" svg:height="0.76cm" svg:x="1.7cm" svg:y="18.4cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Booms</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:name="BoomsFrame" draw:style-name="title1center" draw:layer="layout" svg:width="8cm" svg:height="7.72cm" svg:x="2.1cm" svg:y="19.36cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="Floor Plate" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.7cm" svg:height="1.7cm" svg:x="2.7cm" svg:y="19.57cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 1000 0 1000 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.09cm" svg:height="0.67cm" svg:x="5cm" svg:y="20.08cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Floor Plate</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Boom Base" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.5cm" svg:height="2.5cm" svg:x="2.3cm" svg:y="21.47cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<draw:glue-point draw:id="5" svg:x="0.7cm" svg:y="0cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="6" svg:x="-0.7cm" svg:y="0cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="7" svg:x="0cm" svg:y="-0.7cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="8" svg:x="0cm" svg:y="0.7cm" draw:escape-direction="down"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:type="NonPrimitive" draw:enhanced-path="M 430 500 L 570 500 M 500 430 L 500 570 N U 500 500 1000 1000 0 360 Z N U 500 500 140 140 0 360 Z N F N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.19cm" svg:height="0.67cm" svg:x="5cm" svg:y="22.39cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Boom Base</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Flange Mount" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.8cm" svg:height="0.8cm" svg:x="3.15cm" svg:y="24.17cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<draw:glue-point draw:id="5" svg:x="2.5cm" svg:y="0cm" draw:escape-direction="right"/>
+<draw:glue-point draw:id="6" svg:x="-2.5cm" svg:y="0cm" draw:escape-direction="left"/>
+<draw:glue-point draw:id="7" svg:x="0cm" svg:y="-2.5cm" draw:escape-direction="up"/>
+<draw:glue-point draw:id="8" svg:x="0cm" svg:y="2.5cm" draw:escape-direction="down"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1000" draw:type="NonPrimitive" draw:enhanced-path="M 250 500 L 750 500 M 500 250 L 500 750 N U 500 500 1000 1000 0 360 Z N U 500 500 250 250 0 360 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.51cm" svg:height="0.67cm" svg:x="5cm" svg:y="24.24cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Flange Mount</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Boom" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.6cm" svg:height="1.72cm" svg:x="3.25cm" svg:y="25.17cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 2868" draw:type="NonPrimitive" draw:modifiers="0 2868" draw:enhanced-path="M 500 $0 L 500 1390 0 1647 1000 1647 500 1904 500 $1 F N">
+<draw:handle draw:handle-position="500 $0" draw:handle-range-y-maximum="1390"/>
+<draw:handle draw:handle-position="500 $1" draw:handle-range-y-minimum="1904"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.51cm" svg:height="0.67cm" svg:x="5cm" svg:y="25.7cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Boom</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="2.98cm" svg:height="0.76cm" svg:x="10.5cm" svg:y="1.4cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Accessories</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8cm" svg:height="13.44cm" svg:x="10.9cm" svg:y="2.1cm">
+<text:p/>
+</draw:rect>
+<draw:custom-shape draw:name="2-Panel Barn Door" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.5cm" svg:height="1.38cm" svg:x="12.35cm" svg:y="2.4cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 2757" draw:type="NonPrimitive" draw:enhanced-path="M 1000 0 L 0 444 0 2313 1000 2757 F N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="3.38cm" svg:height="0.67cm" svg:x="13.05cm" svg:y="2.76cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">2-Panel Barn Door</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="4-Panel Barn Door" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.5cm" svg:height="1.38cm" svg:x="12.35cm" svg:y="3.98cm">
+<draw:glue-point draw:id="4" svg:x="0cm" svg:y="0cm"/>
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 2757" draw:type="NonPrimitive" draw:enhanced-path="M 1000 0 L 0 444 0 2313 1000 2757 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="3.38cm" svg:height="0.67cm" svg:x="13.05cm" svg:y="4.34cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">4-Panel Barn Door</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Scroller" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.5cm" svg:height="1.38cm" svg:x="12.35cm" svg:y="5.56cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 2757" draw:type="NonPrimitive" draw:enhanced-path="M 591 0 L 1000 0 1000 2757 591 2757 Z N U 239 278 478 478 0 360 Z N U 239 2479 478 478 0 360 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.66cm" svg:height="0.67cm" svg:x="13.05cm" svg:y="5.92cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Scroller</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Top Hat" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.7cm" svg:height="0.9cm" svg:x="12.25cm" svg:y="7.14cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1287" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 0 1287 N M 0 189 L 1000 189 1000 1098 0 1098 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.76cm" svg:height="0.67cm" svg:x="13.15cm" svg:y="7.26cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Top Hat</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Half Hat" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.7cm" svg:height="0.9cm" svg:x="12.25cm" svg:y="8.24cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 1287" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 0 1287 N M 0 189 L 1000 1098 0 1098 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.76cm" svg:height="0.67cm" svg:x="13.15cm" svg:y="8.36cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Half Hat</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="CYM Mixer" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="2.4cm" svg:height="0.91cm" svg:x="11.4cm" svg:y="9.34cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 1897" draw:type="NonPrimitive" draw:enhanced-path="M 0 360 L 783 91 2200 0 2416 298 4577 298 4774 0 5000 0 5000 1897 4774 1897 4577 1599 2416 1599 2200 1897 783 1806 0 1537 Z N M 2416 298 L 2416 1599 N M 3146 298 L 3146 1599 N U 2781 1309 322 254 120 60 N M 2620 1085 L 2781 965 2620 845 M 2781 965 L 2942 965 N M 2942 461 L 2620 461 2942 605 2620 749 2942 749 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.2cm" svg:height="0.67cm" svg:x="14cm" svg:y="9.46cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">CYM Mixer</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Douser" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.4cm" svg:height="1.39cm" svg:x="12.4cm" svg:y="10.45cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 8709" draw:type="NonPrimitive" draw:enhanced-path="M 0 2500 L 0 8709 M 0 2500 L 2500 0 M 0 4052 L 2500 1552 M 0 5605 L 2500 3105 M 0 7157 L 2500 4657 M 0 8709 L 2500 6209 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.65cm" svg:height="0.67cm" svg:x="13cm" svg:y="10.81cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Douser</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Sightline" draw:style-name="SolidFill" draw:text-style-name="P3" draw:layer="layout" svg:width="0.9cm" svg:height="0.9cm" svg:x="12.15cm" svg:y="12.04cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2500" draw:type="NonPrimitive" draw:enhanced-path="U 1250 1250 2500 2500 0 360 Z F N U 1250 1250 2500 2500 90 180 L 1250 1250 Z N U 1250 1250 2500 2500 270 360 L 1250 1250 Z N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.8cm" svg:height="0.67cm" svg:x="13.25cm" svg:y="12.16cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Sightline</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Rigging Point" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="1.5cm" svg:height="1.5cm" svg:x="11.85cm" svg:y="13.14cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 2500 2500" draw:type="NonPrimitive" draw:enhanced-path="U 1250 1250 1480 1480 0 360 Z N M 0 1250 L 2500 1250 M 1250 0 L 1250 2500 N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.54cm" svg:height="0.67cm" svg:x="13.55cm" svg:y="13.56cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Rigging Point</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Curtain" draw:style-name="SolidFill" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="0.5cm" svg:x="11.1cm" svg:y="14.84cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 833" draw:type="NonPrimitive" draw:enhanced-path="U 417 417 834 834 0 180 F N U 1250 417 834 834 180 0 F N U 2083 417 834 834 0 180 F N U 2917 417 834 834 180 0 F N U 3750 417 834 834 0 180 F N U 4583 417 834 834 180 0 F N"/>
+</draw:custom-shape>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="3.38cm" svg:height="0.67cm" svg:x="14.3cm" svg:y="14.76cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Curtain</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:frame draw:style-name="gr1" draw:layer="layout" svg:width="2.98cm" svg:height="0.76cm" svg:x="10.5cm" svg:y="15.74cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Notation</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:rect draw:style-name="title1center" draw:layer="layout" svg:width="8cm" svg:height="4.84cm" svg:x="10.9cm" svg:y="16.6cm">
+<text:p/>
+</draw:rect>
+<draw:rect draw:name="Dimmer" draw:style-name="notation" draw:layer="layout" svg:width="0.9cm" svg:height="0.6cm" svg:x="11.2cm" svg:y="16.8cm">
+<text:p text:style-name="P2">
+<text:span text:style-name="T1">838</text:span>
+</text:p>
+</draw:rect>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.65cm" svg:height="0.67cm" svg:x="12.3cm" svg:y="16.77cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Dimmer</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:circle draw:name="Channel" draw:style-name="notation" draw:layer="layout" svg:width="0.9cm" svg:height="0.9cm" svg:x="11.2cm" svg:y="17.6cm">
+<text:p text:style-name="P2">
+<text:span text:style-name="T1">1</text:span>
+</text:p>
+</draw:circle>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.77cm" svg:height="0.67cm" svg:x="12.3cm" svg:y="17.72cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Channel</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:polygon draw:name="Circuit" draw:style-name="SolidLine" draw:text-style-name="P3" draw:layer="layout" svg:width="0.9cm" svg:height="0.775cm" svg:x="11.2cm" svg:y="18.8cm" svg:viewBox="0 0 901 776" draw:points="901,391 676,0 225,0 0,391 225,776 676,776">
+<text:p text:style-name="P2">
+<text:span text:style-name="T1">103</text:span>
+</text:p>
+</draw:polygon>
+<draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.43cm" svg:height="0.67cm" svg:x="12.3cm" svg:y="18.86cm">
+<draw:text-box>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">Circuit</text:span>
+</text:p>
+</draw:text-box>
+</draw:frame>
+<draw:custom-shape draw:name="Center Line" draw:style-name="gr9" draw:text-style-name="P3" draw:layer="layout" svg:width="1cm" svg:height="1.4cm" svg:x="11.2cm" svg:y="19.78cm">
+<text:p/>
+<draw:enhanced-geometry svg:viewBox="0 0 5000 7120" draw:type="NonPrimitive" draw:enhanced-path="U 2272 2627 4524 5234 30 330 N M 2018 2018 L 2018 7120 5000 7120 F N"/>
+</draw:custom-shape>
+<draw:custom-shape draw:name="Rack 38U" draw:style-name="MintGray" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="13.49cm" svg:x="1cm" svg:y="1cm">
+<text:p text:style-name="P1">Rack 38U</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 1000 3374"  draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:text-areas="0 3374 1000 3474" draw:type="NonPrimitive" draw:enhanced-path="M 0 0 L 1000 0 1000 69 0 69 Z M 928 69 L 1000 69 1000 3230 928 3230 Z M 1000 3230 L 1000 3374 0 3374 0 3230 Z M 0 69 L 72 69 72 3230 0 3230 Z N"/>
+</draw:custom-shape>
+</draw:page>
+</office:drawing>
+</office:body>
+</office:document-content>
